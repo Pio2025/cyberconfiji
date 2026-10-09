@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 70" role="img" aria-label="Coral Air">
+  <path d="M20 38 l14 -6 6 2 -8 8 10 3 6 -3 4 2 -6 5 10 2 v3 l-10 2 6 5 -4 2 -6 -3 -10 2 8 8 -6 2 -14 -6 z" fill="#0e9aa7"/>
+  <text x="130" y="34" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#0e6b74">Coral Air</text>
+  <text x="130" y="50" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9" letter-spacing="2" fill="#5a9aa0">REGIONAL</text>
+</svg>

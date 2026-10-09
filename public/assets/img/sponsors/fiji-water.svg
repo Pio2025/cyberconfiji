@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 70" role="img" aria-label="Fiji Water">
+  <text x="110" y="34" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-weight="700" letter-spacing="1" fill="#0a3d6b">FIJI</text>
+  <text x="110" y="54" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="14" font-style="italic" letter-spacing="2" fill="#3d8bc4">W A T E R</text>
+  <path d="M20 60 Q 55 50 90 60 T 160 60 T 200 60" fill="none" stroke="#7fc4e8" stroke-width="2" stroke-linecap="round"/>
+</svg>

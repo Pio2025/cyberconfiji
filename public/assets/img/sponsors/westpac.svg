@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 70" role="img" aria-label="Westpac">
+  <circle cx="30" cy="35" r="16" fill="none" stroke="#da1710" stroke-width="4"/>
+  <text x="30" y="41" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="800" fill="#da1710">W</text>
+  <text x="60" y="42" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#da1710">estpac</text>
+</svg>

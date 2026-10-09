@@ -1,0 +1,25 @@
+# CodeIgniter / WAMP
+/vendor/
+/node_modules/
+/writable/*
+!/writable/.gitkeep
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# IDE / OS
+.idea/
+.vscode/
+*.sublime-*
+.DS_Store
+Thumbs.db
+
+# Logs & temp
+*.log
+/tmp/
+/uploads/
+
+# Composer lock (keep or remove depending on preference)
+# composer.lock

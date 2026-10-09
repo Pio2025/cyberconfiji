@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 70" role="img" aria-label="Coca-Cola">
+  <text x="110" y="42" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-weight="700" font-style="italic" fill="#f40009">Coca-Cola</text>
+  <path d="M30 50 Q 110 62 190 50" fill="none" stroke="#f40009" stroke-width="2" stroke-linecap="round"/>
+</svg>
