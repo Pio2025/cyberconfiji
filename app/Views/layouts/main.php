@@ -16,7 +16,7 @@
 <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
 
 <!-- Site stylesheet -->
-<link rel="icon" type="image/png" href="assets/img/favicon.png">
+<link rel="icon" type="image/png" href="assets/img/favicon.ico">
 <link href="css/style.css" rel="stylesheet">
 </head>
 <body>
@@ -27,7 +27,7 @@
 <nav class="navbar navbar-expand-lg main-navbar" id="mainNavbar">
   <div class="container">
     <a class="navbar-brand navbar-brand-wrap" href="index.html">
-      <img src="assets/img/logo-white.png" alt="Digital Fiji Forum" class="brand-logo">
+      <img src="assets/img/logonew.png" alt="Digital Fiji Forum" class="brand-logo">
     </a>
 
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNavContent" aria-controls="mainNavContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -75,7 +75,7 @@
     <div class="row g-4">
       <div class="col-lg-4 footer-brand">
         <div class="navbar-brand-wrap mb-3">
-          <img src="assets/img/logo-white.png" alt="Digital Fiji Forum" class="brand-logo brand-logo--footer">
+          <img src="assets/img/logonew.png" alt="Digital Fiji Forum" class="brand-logo brand-logo--footer">
         </div>
         <p>A national convening for government, industry, academia and civil society to strengthen Fiji's cybersecurity and build a resilient digital environment.</p>
         <div class="social-row">

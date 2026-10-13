@@ -79,20 +79,20 @@
           </div>
           <div class="contact-detail">
             <i class="bi bi-envelope"></i>
-            <div><h6>General enquiries</h6><p><a href="mailto:info@digital.gov.fj">info@digital.gov.fj</a></p></div>
+            <div><h6>General enquiries</h6><p><a href="mailto:info@digital.gov.fj">support@cyberconfiji.com</a></p></div>
           </div>
-          <div class="contact-detail">
+          <!--div class="contact-detail">
             <i class="bi bi-people"></i>
             <div><h6>Sponsorship</h6><p><a href="mailto:partners@digital.gov.fj">partners@digital.gov.fj</a></p></div>
           </div>
           <div class="contact-detail">
             <i class="bi bi-mic"></i>
             <div><h6>Speaking &amp; press</h6><p><a href="mailto:program@digital.gov.fj">program@digital.gov.fj</a></p></div>
-          </div>
-          <div class="contact-detail">
+          </div-->
+          <!--div class="contact-detail">
             <i class="bi bi-telephone"></i>
             <div><h6>Phone</h6><p><a href="tel:+6796701234">+679 670 1234</a> &middot; Mon&ndash;Fri, 9:00&ndash;17:00 FJT</p></div>
-          </div>
+          </div-->
         </div>
 
       </div>
