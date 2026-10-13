@@ -1,4 +1,4 @@
-<section class="page-hero">
+  <section class="page-hero">
     <div class="container">
       <div class="section-kicker">Contact Us</div>
       <h1>Talk to the forum team.</h1>
@@ -25,42 +25,46 @@
           </div>
 
           <form id="contactForm" class="contact-form row g-3" novalidate>
+            <?= csrf_field() ?>
+
             <div class="col-md-6">
               <label for="cf-name">Full name</label>
-              <input type="text" class="form-control" id="cf-name" required>
+              <input type="text" class="form-control" id="cf-name" name="name" required>
               <div class="invalid-feedback">Please enter your name.</div>
             </div>
+
             <div class="col-md-6">
               <label for="cf-email">Email address</label>
-              <input type="email" class="form-control" id="cf-email" required>
+              <input type="email" class="form-control" id="cf-email" name="email" required>
               <div class="invalid-feedback">Please enter a valid email.</div>
             </div>
+
             <div class="col-md-6">
               <label for="cf-org">Organisation</label>
-              <input type="text" class="form-control" id="cf-org">
+              <input type="text" class="form-control" id="cf-org" name="org">
             </div>
+
             <div class="col-md-6">
               <label for="cf-topic">Topic</label>
-              <select class="form-control" id="cf-topic" required>
+              <select class="form-control" id="cf-topic" name="topic" required>
                 <option value="">Choose one&hellip;</option>
-                <option>Delegate passes</option>
-                <option>Speaking &amp; facilitating</option>
-                <option>Sponsorship</option>
-                <option>Press &amp; media</option>
-                <option>Something else</option>
+                <option value="Delegate passes">Delegate passes</option>
+                <option value="Speaking &amp; facilitating">Speaking &amp; facilitating</option>
+                <option value="Sponsorship">Sponsorship</option>
+                <option value="Press &amp; media">Press &amp; media</option>
+                <option value="Something else">Something else</option>
               </select>
               <div class="invalid-feedback">Please choose a topic.</div>
             </div>
+
             <div class="col-12">
               <label for="cf-message">Message</label>
-              <textarea class="form-control" id="cf-message" rows="5" required></textarea>
+              <textarea class="form-control" id="cf-message" name="message" rows="5" required></textarea>
               <div class="invalid-feedback">Please write a short message.</div>
             </div>
+
             <div class="col-12">
               <button type="submit" class="btn btn-accent">Send Message</button>
-            </div>
-            <div class="col-12">
-              <p class="text-muted mb-0" style="font-size: 0.82rem;">This is a demo form &mdash; it validates in the browser but does not send email. Wire it to your provider (Formspree, Netlify Forms, a backend endpoint) before launch.</p>
             </div>
           </form>
         </div>
