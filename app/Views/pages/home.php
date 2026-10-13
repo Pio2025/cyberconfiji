@@ -14,7 +14,7 @@
       <div class="row justify-content-center">
         <div class="col-xl-9">
           <div class="section-kicker">25 OCTOBER 2026 &nbsp;&middot;&nbsp; SUVA, FIJI</div>
-          <h1 class="hero-heading">Stronger Together. Safer Online.</h1>
+          <h1 class="hero-heading">National Cybersecurity and Resilience Convention 2026.</h1>
           <p class="hero-sub">One day. One mission. Plenaries, workshops and working sessions uniting government, industry and communities to secure Fiji's digital future.</p>
           <div class="d-flex flex-wrap gap-3 justify-content-center">
             <a href="<?php echo base_url('schedule'); ?>" class="btn btn-accent">View Schedule</a>
@@ -54,9 +54,9 @@
             <p>The National Cybersecurity and Resilience Convention 2026 aims to bring Fiji together to build a more cyber-aware and resilient nation. Through dialogue, collaboration and knowledge-sharing, the Convention will support the implementation of the National Cybersecurity and Resilience Strategy 2026–2031 and strengthen collective efforts to protect Fiji’s digital environment.</p>
 
             <div class="about-stats">
-              <div><strong>32</strong><span>Working sessions</span></div>
-              <div><strong>9</strong><span>Industry tracks</span></div>
-              <div><strong>4.8/5</strong><span>2025 delegate rating</span></div>
+              <div><strong>6</strong><span>Speakers</span></div>
+              <div><strong>20+</strong><span>Industry tracks</span></div>
+              <div><strong>10</strong><span>Sessions</span></div>
             </div>
 
             <!--a href="about.html" class="btn btn-navy">Read More About Us</a-->
@@ -74,7 +74,7 @@
       <div class="row mb-5">
         <div class="col-lg-7 section-heading-block">
           <div class="section-kicker">On the Program</div>
-          <h2>Speakers charting the course.</h2>
+          <h2 class="text-white">Speakers charting the course.</h2>
           <p class="mb-0">Operators, regulators and investors who are building the Pacific's next chapter &mdash; hover a card for a closer look.</p>
         </div>
       </div>
@@ -84,16 +84,16 @@
         <!-- Speaker 1 -->
         <div class="col-md-6 col-lg-4">
           <div class="speaker-card">
-            <img class="speaker-photo" src="https://randomuser.me/api/portraits/women/44.jpg" alt="Portrait of Litia Nakauta">
+            <img class="speaker-photo" src="assets/img/profile/1.jpg" alt="Portrait of Vikash Prasad">
             <div class="speaker-default-label">
-              <h5>Litia Nakauta</h5>
-              <span>Chief Executive, Oceania Ventures</span>
+              <h5>Vikash Prasad</h5>
+              <span>Chief Technology Officer,  Vodafone Fiji limited</span>
             </div>
             <div class="speaker-overlay">
-              <h5>Litia Nakauta</h5>
-              <p class="designation">Chief Executive, Oceania Ventures</p>
-              <p class="experience">15+ years scaling regional funds; has led investment into more than 40 Pacific-based startups since 2016.</p>
-              <span class="experience-tag">Investment &amp; Growth</span>
+              <h5>Vikash Prasad</h5>
+              <p class="designation">Chief Technology Officer,  Vodafone Fiji limited</p>
+              <p class="experience">Oversees Vodafone's technology strategy, cybersecurity, digital transformation, and innovation agenda. Drawing on extensive experience in telecommunications and digital innovation, leads initiatives spanning mobile networks, cloud services, cybersecurity, fintech platforms, and emerging technologies.</p>
+              <span class="experience-tag">Cybersecurity &amp; Telecommunications </span>
             </div>
           </div>
         </div>
@@ -101,16 +101,16 @@
         <!-- Speaker 2 -->
         <div class="col-md-6 col-lg-4">
           <div class="speaker-card">
-            <img class="speaker-photo" src="https://randomuser.me/api/portraits/men/32.jpg" alt="Portrait of Api Tuilagi">
+            <img class="speaker-photo" src="assets/img/profile/2.jpg" alt="Portrait of Prashil Kumar">
             <div class="speaker-default-label">
-              <h5>Api Tuilagi</h5>
-              <span>Founder &amp; CEO, Reef Logistics</span>
+              <h5>Prashil Kumar</h5>
+              <span>CISO , Cyber Acads</span>
             </div>
             <div class="speaker-overlay">
-              <h5>Api Tuilagi</h5>
-              <p class="designation">Founder &amp; CEO, Reef Logistics</p>
-              <p class="experience">Built Reef Logistics into a 6-country freight network after 12 years in maritime operations and port authority management.</p>
-              <span class="experience-tag">Logistics &amp; Trade</span>
+              <h5>Prashil Kumar</h5>
+              <p class="designation">CISO, Cyber Acads</p>
+              <!--p class="experience">Built Reef Logistics into a 6-country freight network after 12 years in maritime operations and port authority management.</p>
+              <span class="experience-tag">Logistics &amp; Trade</span-->
             </div>
           </div>
         </div>
@@ -118,16 +118,16 @@
         <!-- Speaker 3 -->
         <div class="col-md-6 col-lg-4">
           <div class="speaker-card">
-            <img class="speaker-photo" src="https://randomuser.me/api/portraits/women/68.jpg" alt="Portrait of Mele Fifita">
+            <img class="speaker-photo" src="assets/img/profile/3.jpg" alt="Portrait of Mele Fifita">
             <div class="speaker-default-label">
-              <h5>Mele Fifita</h5>
-              <span>Director of Digital Policy, Pacific Islands Forum</span>
+              <h5>Jashvir Bir</h5>
+              <span>Academic in Computing Science and Information Systems, The University of the South Pacific</span>
             </div>
             <div class="speaker-overlay">
-              <h5>Mele Fifita</h5>
-              <p class="designation">Director of Digital Policy, Pacific Islands Forum</p>
-              <p class="experience">Shapes cross-border data and telecoms policy across 14 member states; former regulator with 18 years in public service.</p>
-              <span class="experience-tag">Policy &amp; Regulation</span>
+              <h5>Jashvir Bir</h5>
+              <p class="designation">Academic in Computing Science and Information Systems, The University of the South Pacific</p>
+              <p class="experience">An academic in Computing Science and Information Systems at the University of the South Pacific (USP) and a PhD Candidate specialising in cybersecurity. Areas of expertise include computer and network security, network administration, and cloud computing.</p>
+              <span class="experience-tag">Academic &amp; Network Security</span>
             </div>
           </div>
         </div>
@@ -135,16 +135,16 @@
         <!-- Speaker 4 -->
         <div class="col-md-6 col-lg-4">
           <div class="speaker-card">
-            <img class="speaker-photo" src="https://randomuser.me/api/portraits/men/65.jpg" alt="Portrait of Sione Taufa">
+            <img class="speaker-photo" src="assets/img/profile/4.jpg" alt="Portrait of Peter Roberts">
             <div class="speaker-default-label">
-              <h5>Sione Taufa</h5>
-              <span>Head of Engineering, Waitui Bank</span>
+              <h5>Peter Roberts</h5>
+              <span>Australian High Commissioner to Fiji, Australian High Commission</span>
             </div>
             <div class="speaker-overlay">
-              <h5>Sione Taufa</h5>
-              <p class="designation">Head of Engineering, Waitui Bank</p>
-              <p class="experience">Leads core banking modernization across 5 island nations; 11 years building financial infrastructure for underbanked markets.</p>
-              <span class="experience-tag">Fintech &amp; Infrastructure</span>
+              <h5>Peter Roberts</h5>
+              <p class="designation">Australian High Commissioner to Fiji, Australian High Commission</p>
+              <p class="experience">Previously served overseas as Australia's Ambassador to Timor-Leste, with postings in Australian diplomatic missions in Samoa and Japan, and as a Senior Civilian Monitor in Bougainville, Papua New Guinea.</p>
+              <span class="experience-tag">Diplomatic Leadership</span>
             </div>
           </div>
         </div>
@@ -152,16 +152,16 @@
         <!-- Speaker 5 -->
         <div class="col-md-6 col-lg-4">
           <div class="speaker-card">
-            <img class="speaker-photo" src="https://randomuser.me/api/portraits/women/12.jpg" alt="Portrait of Adi Vasiti Rokotuivuna">
+            <img class="speaker-photo" src="assets/img/profile/5.jpg" alt="Portrait of Vytenis Benetis">
             <div class="speaker-default-label">
-              <h5>Adi Vasiti Rokotuivuna</h5>
-              <span>Minister Advisor, Trade &amp; Investment</span>
+              <h5>Vytenis Benetis</h5>
+              <span>Consultant , i-Intelligence</span>
             </div>
             <div class="speaker-overlay">
-              <h5>Adi Vasiti Rokotuivuna</h5>
-              <p class="designation">Minister Advisor, Trade &amp; Investment</p>
-              <p class="experience">Advises on regional trade agreements and foreign direct investment strategy; 20 years across diplomacy and economic planning.</p>
-              <span class="experience-tag">Trade &amp; Government</span>
+              <h5>Vytenis Benetis</h5>
+              <p class="designation">Consultant , i-Intelligence</p>
+              <p class="experience">consultant at i-intelligence (Switzerland) and an expert in open-source intelligence (OSINT), with a decade of experience as a military intelligence analyst. Work has spanned the Lithuanian Ministry of Defence, NATO, and the European Union at operational and strategic levels, developing solutions for managing large information flows and delivering actionable intelligence to senior decision makers. Also designs hands-on cybersecurity exercises, including Capture the Flag (CTF) challenges for ITU Regional and Global Cyber Drills, and a cybersecurity e-learning course with CTF exercises for high school and university students under an EU-funded non-formal education programme.</p>
+              <span class="experience-tag">Cybersecurity &amp; E-Learning</span>
             </div>
           </div>
         </div>
@@ -169,22 +169,22 @@
         <!-- Speaker 6 -->
         <div class="col-md-6 col-lg-4">
           <div class="speaker-card">
-            <img class="speaker-photo" src="https://randomuser.me/api/portraits/men/76.jpg" alt="Portrait of Peniasi Waqa">
+            <img class="speaker-photo" src="assets/img/profile/6.jpg" alt="Portrait of Faraz Khan">
             <div class="speaker-default-label">
-              <h5>Peniasi Waqa</h5>
-              <span>Founder, Blue Coral Renewables</span>
+              <h5>Faraz Khan</h5>
+              <span>Cybersecurity Lecturer, Victoria University</span>
             </div>
             <div class="speaker-overlay">
-              <h5>Peniasi Waqa</h5>
-              <p class="designation">Founder, Blue Coral Renewables</p>
-              <p class="experience">Deploys off-grid solar and micro-hydro systems to outer islands; 9 years in renewable energy project finance.</p>
-              <span class="experience-tag">Energy &amp; Sustainability</span>
+              <h5>Faraz Khan</h5>
+              <p class="designation">Cybersecurity Lecturer, Victoria University</p>
+              <p class="experience">EU CyberNet expert, cybersecurity educator, and winner of the 2026 Australian Cyber Battle CTF, as well as a finalist for the 2026 Australian Information Security Association (AISA) Educator of the Year Award. As a cybersecurity lecturer at Victoria University and a 2025 International Vocational Education and Training Practitioner Fellow, Faraz creates practical, engaging learning experiences that build real-world cyber skills. Specialising in hands-on challenges, Capture the Flag activities, workshops, and scenario-based training, cybersecurity is made accessible, collaborative, and enjoyable for aspiring professionals.</p>
+              <span class="experience-tag">Cybersecurity &amp; Lecturer</span>
             </div>
           </div>
         </div>
 
         <!-- Speaker 7 -->
-        <div class="col-md-6 col-lg-4">
+        <!--div class="col-md-6 col-lg-4">
           <div class="speaker-card">
             <img class="speaker-photo" src="https://randomuser.me/api/portraits/women/50.jpg" alt="Portrait of Talei Vuki">
             <div class="speaker-default-label">
@@ -198,10 +198,10 @@
               <span class="experience-tag">People &amp; Culture</span>
             </div>
           </div>
-        </div>
+        </div-->
 
         <!-- Speaker 8 -->
-        <div class="col-md-6 col-lg-4">
+        <!--div class="col-md-6 col-lg-4">
           <div class="speaker-card">
             <img class="speaker-photo" src="https://randomuser.me/api/portraits/men/22.jpg" alt="Portrait of Tomasi Naiveli">
             <div class="speaker-default-label">
@@ -215,10 +215,10 @@
               <span class="experience-tag">Finance &amp; M&amp;A</span>
             </div>
           </div>
-        </div>
+        </div-->
 
         <!-- Speaker 9 -->
-        <div class="col-md-6 col-lg-4">
+        <!--div class="col-md-6 col-lg-4">
           <div class="speaker-card">
             <img class="speaker-photo" src="https://randomuser.me/api/portraits/women/33.jpg" alt="Portrait of Elenoa Baleicagi">
             <div class="speaker-default-label">
@@ -232,7 +232,7 @@
               <span class="experience-tag">Technology &amp; Education</span>
             </div>
           </div>
-        </div>
+        </div-->
 
       </div>
     </div>
