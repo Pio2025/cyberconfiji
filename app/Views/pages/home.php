@@ -506,7 +506,7 @@
         </div>
       </div>
 
-      <div class="sponsor-tier-label">PLATINUM TIER</div>
+      <div class="sponsor-tier-label">PLATINUM</div>
       <div class="row g-3 mb-4">
         <div class="col-6 col-md-3"><div class="sponsor-box"><img src="assets/img/sponsors/fiji-water.svg" alt="Fiji Water" class="sponsor-logo"></div></div>
         <div class="col-6 col-md-3"><div class="sponsor-box"><img src="assets/img/sponsors/fiji-airways.svg" alt="Fiji Airways" class="sponsor-logo"></div></div>
@@ -514,7 +514,7 @@
         <div class="col-6 col-md-3"><div class="sponsor-box"><img src="assets/img/sponsors/anz.svg" alt="ANZ" class="sponsor-logo"></div></div>
       </div>
 
-      <div class="sponsor-tier-label">GOLD TIER</div>
+      <div class="sponsor-tier-label">GOLD & SILVER</div>
       <div class="row g-3 mb-4">
         <div class="col-6 col-md-2"><div class="sponsor-box"><img src="assets/img/sponsors/coca-cola.svg" alt="Coca-Cola" class="sponsor-logo"></div></div>
         <div class="col-6 col-md-2"><div class="sponsor-box"><img src="assets/img/sponsors/westpac.svg" alt="Westpac" class="sponsor-logo"></div></div>
@@ -524,7 +524,7 @@
         <div class="col-6 col-md-2"><div class="sponsor-box"><img src="assets/img/sponsors/fiji-bitter.svg" alt="Fiji Bitter - Carlton Brewery" class="sponsor-logo"></div></div>
       </div>
 
-      <div class="sponsor-tier-label">SILVER TIER</div>
+      <div class="sponsor-tier-label">PARTNERS</div>
       <div class="row g-3">
         <div class="col-6 col-md-2"><div class="sponsor-box"><img src="assets/img/sponsors/coral-air.svg" alt="Coral Air" class="sponsor-logo"></div></div>
         <div class="col-6 col-md-2"><div class="sponsor-box"><img src="assets/img/sponsors/lagoon-studio.svg" alt="Lagoon Studio" class="sponsor-logo"></div></div>
