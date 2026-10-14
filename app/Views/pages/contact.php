@@ -75,7 +75,7 @@
 
           <div class="contact-detail">
             <i class="bi bi-geo-alt"></i>
-            <div><h6>Venue &amp; office</h6><p>Grand Pacific Harbour Centre<br>Victoria Parade, Suva, Fiji</p></div>
+            <div><h6>Event Venue </h6><p>Grand Pacific Hotel<br>Victoria Parade, Suva, Fiji</p></div>
           </div>
           <div class="contact-detail">
             <i class="bi bi-envelope"></i>
@@ -159,3 +159,68 @@
       </div>
     </div>
   </section>
+
+  <script>
+    document.getElementById('contactForm').addEventListener('submit', async function (e) {
+        e.preventDefault();
+        e.stopPropagation();
+
+        const form = e.target;
+        const note = document.getElementById('formNote');
+        const submitBtn = form.querySelector('button[type="submit"]');
+
+        // Bootstrap-style validation
+        if (!form.checkValidity()) {
+            form.classList.add('was-validated');
+            return;
+        }
+
+        // Reset previous state
+        note.classList.add('d-none');
+        note.classList.remove('alert-success', 'alert-danger');
+        submitBtn.disabled = true;
+        const originalText = submitBtn.textContent;
+        submitBtn.textContent = 'Sending…';
+
+        try {
+            const formData = new FormData(form);
+
+            const response = await fetch('<?= site_url('contact/send') ?>', {
+                method: 'POST',
+                body: formData,
+                headers: {
+                    'X-Requested-With': 'XMLHttpRequest'
+                }
+            });
+
+            const data = await response.json();
+
+            if (data.status === 'success') {
+                note.textContent = data.message;
+                note.classList.remove('d-none');
+                note.classList.add('alert-success');
+                note.focus();
+                form.reset();
+                form.classList.remove('was-validated');
+            } else {
+                // Show validation errors if any
+                let msg = data.message || 'Something went wrong.';
+                if (data.errors) {
+                    msg += ' ' + Object.values(data.errors).join(' ');
+                }
+                note.textContent = msg;
+                note.classList.remove('d-none');
+                note.classList.add('alert-danger');
+                note.focus();
+            }
+        } catch (err) {
+            note.textContent = 'Network error. Please try again.';
+            note.classList.remove('d-none');
+            note.classList.add('alert-danger');
+            note.focus();
+        } finally {
+            submitBtn.disabled = false;
+            submitBtn.textContent = originalText;
+        }
+    });
+    </script>
