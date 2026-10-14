@@ -1,8 +1,8 @@
   <section class="page-hero">
     <div class="container">
       <div class="section-kicker">Contact Us</div>
-      <h1>Talk to the forum team.</h1>
-      <p>Questions about delegate passes, speaking, sponsorship or press &mdash; send a note and we'll route it to the right person.</p>
+      <h1>Talk to the team.</h1>
+      <!--p>Questions about delegate passes, speaking, sponsorship or press &mdash; send a note and we'll route it to the right person.</p-->
     </div>
   </section>
 

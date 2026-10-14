@@ -70,7 +70,7 @@ class Home extends BaseController
         $emailService = \Config\Services::email();
         $emailService->setTo('support@cyberconfiji.com');
         $emailService->setReplyTo($email, $name);
-        $emailService->setSubject('New contact message: ' . $topic);
+        $emailService->setSubject('New contact message: ');
         $emailService->setMessage($body);
 
         if (! $emailService->send(false)) {
