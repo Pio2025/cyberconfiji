@@ -82,7 +82,7 @@
       <div class="row g-4">
 
         <!-- Speaker 1 -->
-        <div class="col-md-6 col-lg-4">
+        <div class="col-md-6 col-lg-3">
           <div class="speaker-card">
             <img class="speaker-photo" src="assets/img/profile/1.jpg" alt="Portrait of Vikash Prasad">
             <div class="speaker-default-label">
@@ -99,7 +99,7 @@
         </div>
 
         <!-- Speaker 2 -->
-        <div class="col-md-6 col-lg-4">
+        <div class="col-md-6 col-lg-3">
           <div class="speaker-card">
             <img class="speaker-photo" src="assets/img/profile/2.jpg" alt="Portrait of Prashil Kumar">
             <div class="speaker-default-label">
@@ -116,7 +116,7 @@
         </div>
 
         <!-- Speaker 3 -->
-        <div class="col-md-6 col-lg-4">
+        <div class="col-md-6 col-lg-3">
           <div class="speaker-card">
             <img class="speaker-photo" src="assets/img/profile/3.jpg" alt="Portrait of Mele Fifita">
             <div class="speaker-default-label">
@@ -133,7 +133,7 @@
         </div>
 
         <!-- Speaker 4 -->
-        <div class="col-md-6 col-lg-4">
+        <div class="col-md-6 col-lg-3">
           <div class="speaker-card">
             <img class="speaker-photo" src="assets/img/profile/4.jpg" alt="Portrait of Peter Roberts">
             <div class="speaker-default-label">
@@ -150,7 +150,7 @@
         </div>
 
         <!-- Speaker 5 -->
-        <div class="col-md-6 col-lg-4">
+        <div class="col-md-6 col-lg-3">
           <div class="speaker-card">
             <img class="speaker-photo" src="assets/img/profile/5.jpg" alt="Portrait of Vytenis Benetis">
             <div class="speaker-default-label">
@@ -167,7 +167,7 @@
         </div>
 
         <!-- Speaker 6 -->
-        <div class="col-md-6 col-lg-4">
+        <div class="col-md-6 col-lg-3">
           <div class="speaker-card">
             <img class="speaker-photo" src="assets/img/profile/6.jpg" alt="Portrait of Faraz Khan">
             <div class="speaker-default-label">
@@ -184,24 +184,24 @@
         </div>
 
         <!-- Speaker 7 -->
-        <!--div class="col-md-6 col-lg-4">
+        <div class="col-md-6 col-lg-4">
           <div class="speaker-card">
-            <img class="speaker-photo" src="https://randomuser.me/api/portraits/women/50.jpg" alt="Portrait of Talei Vuki">
+            <img class="speaker-photo" src="assets/img/profile/7.jpg" alt="Portrait of Pritika Seth">
             <div class="speaker-default-label">
-              <h5>Talei Vuki</h5>
-              <span>VP People, Southern Cross Group</span>
+              <h5>Pritika Seth</h5>
+              <span>Cloud Infrastructure Engineer, Digicel Pacific</span>
             </div>
             <div class="speaker-overlay">
-              <h5>Talei Vuki</h5>
-              <p class="designation">VP People, Southern Cross Group</p>
-              <p class="experience">Built HR systems for a 3,000-employee regional conglomerate; 13 years in organizational design across hospitality and retail.</p>
-              <span class="experience-tag">People &amp; Culture</span>
+              <h5>Pritika Seth</h5>
+              <p class="designation">Cloud Infrastructure Engineer, Digicel Pacific</p>
+              <p class="experience">Senior Cloud Infrastructure Engineer at Digicel Pacific, with work centered on resilience: deploying end-to-end ICT solutions and managing Disaster Recovery as a Service to keep regional systems secure, operational and crisis-ready.</p>
+              <span class="experience-tag">Cloud Infrastructure &amp; Disaster Recovery</span>
             </div>
           </div>
-        </div-->
+        </div>
 
         <!-- Speaker 8 -->
-        <!--div class="col-md-6 col-lg-4">
+        <div class="col-md-6 col-lg-4">
           <div class="speaker-card">
             <img class="speaker-photo" src="https://randomuser.me/api/portraits/men/22.jpg" alt="Portrait of Tomasi Naiveli">
             <div class="speaker-default-label">
@@ -215,7 +215,7 @@
               <span class="experience-tag">Finance &amp; M&amp;A</span>
             </div>
           </div>
-        </div-->
+        </div>
 
         <!-- Speaker 9 -->
         <!--div class="col-md-6 col-lg-4">
@@ -529,7 +529,7 @@
         <div class="col-6 col-md-2"><div class="sponsor-box"><img src="assets/img/sponsors/coral-air.svg" alt="Coral Air" class="sponsor-logo"></div></div>
         <div class="col-6 col-md-2"><div class="sponsor-box"><img src="assets/img/sponsors/lagoon-studio.svg" alt="Lagoon Studio" class="sponsor-logo"></div></div>
         <div class="col-6 col-md-2"><div class="sponsor-box"><img src="assets/img/sponsors/vanua-print.svg" alt="Vanua Print Co." class="sponsor-logo"></div></div>
-        <div class="col-6 col-md-2"><div class="sponsor-box"><img src="assets/img/sponsors/bula-roasters.svg" alt="Bula Roasters" class="sponsor-logo"></div></div>
+        <div class="col-6 col-md-2"><div class="sponsor-box"><img src="assets/img/sponsors/eu-cybernet.png" alt="Bula Roasters" class="sponsor-logo"></div></div>
       </div>
     </div>
   </section>
