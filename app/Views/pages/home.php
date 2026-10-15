@@ -218,21 +218,38 @@
         </div>
 
         <!-- Speaker 9 -->
-        <!--div class="col-md-6 col-lg-4">
+        <div class="col-md-6 col-lg-4">
           <div class="speaker-card">
-            <img class="speaker-photo" src="https://randomuser.me/api/portraits/women/33.jpg" alt="Portrait of Elenoa Baleicagi">
+            <img class="speaker-photo" src="assets/img/profile/9.jpg" alt="Portrait of Nereo Penalver-Garcia">
             <div class="speaker-default-label">
-              <h5>Elenoa Baleicagi</h5>
-              <span>Product Lead, Navuli Systems</span>
+              <h5>Nereo Penalver-Garcia</h5>
+              <span>Deputy Head of the EU Delegation, EU Delegation to the Pacific</span>
             </div>
             <div class="speaker-overlay">
-              <h5>Elenoa Baleicagi</h5>
-              <p class="designation">Product Lead, Navuli Systems</p>
-              <p class="experience">Leads product strategy for education technology deployed across 60+ Pacific schools; 8 years in ed-tech and public sector software.</p>
+              <h5>Nereo Penalver-Garcia</h5>
+              <p class="designation">Deputy Head of the EU Delegation, EU Delegation to the Pacific</p>
+              <p class="experience">Deputy Head of the EU Delegation to the Pacific (First Counsellor), responsible for relations with thirteen Pacific Island Countries. Assumed the posting on 1 September 2024.</p>
+              <span class="experience-tag">Diplomatic Affairs &amp; Artificial Intelligence</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Speaker 10 -->
+        <div class="col-md-6 col-lg-4">
+          <div class="speaker-card">
+            <img class="speaker-photo" src="assets/img/profile/10.jpg" alt="Portrait of Hannah Bradshaw">
+            <div class="speaker-default-label">
+              <h5>Hannah Bradshaw</h5>
+              <span>Cybersecurity Policy Secondee | Head, Cyber Affairs, Department of Communications</span>
+            </div>
+            <div class="speaker-overlay">
+              <h5>Hannah Bradshaw</h5>
+              <p class="designation">Cybersecurity Policy Secondee | Head, Cyber Affairs, Department of Communications</p>
+              <p class="experience">Deputy Head of the EU Delegation to the Pacific (First Counsellor), responsible for relations with thirteen Pacific Island Countries. Assumed the posting on 1 September 2024.</p>
               <span class="experience-tag">Technology &amp; Education</span>
             </div>
           </div>
-        </div-->
+        </div>
 
       </div>
     </div>
