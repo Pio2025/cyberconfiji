@@ -184,7 +184,7 @@
         </div>
 
         <!-- Speaker 7 -->
-        <div class="col-md-6 col-lg-4">
+        <div class="col-md-6 col-lg-3">
           <div class="speaker-card">
             <img class="speaker-photo" src="assets/img/profile/7.jpg" alt="Portrait of Pritika Seth">
             <div class="speaker-default-label">
@@ -201,18 +201,18 @@
         </div>
 
         <!-- Speaker 8 -->
-        <div class="col-md-6 col-lg-4">
+        <div class="col-md-6 col-lg-3">
           <div class="speaker-card">
-            <img class="speaker-photo" src="https://randomuser.me/api/portraits/men/22.jpg" alt="Portrait of Tomasi Naiveli">
+            <img class="speaker-photo" src="assets/img/profile/8.jpg" alt="Portrait of Seema Shandil">
             <div class="speaker-default-label">
-              <h5>Tomasi Naiveli</h5>
-              <span>Managing Partner, Nadi Capital</span>
+              <h5>Seema Shandil</h5>
+              <span>Chief Executive Officer, Consumer Council of Fiji</span>
             </div>
             <div class="speaker-overlay">
-              <h5>Tomasi Naiveli</h5>
-              <p class="designation">Managing Partner, Nadi Capital</p>
-              <p class="experience">Structures cross-border M&amp;A and private equity deals across tourism and agribusiness; 17 years in corporate finance.</p>
-              <span class="experience-tag">Finance &amp; M&amp;A</span>
+              <h5>Seema Shandil</h5>
+              <p class="designation">Chief Executive Officer, Consumer Council of Fiji</p>
+              <p class="experience">A passionate consumer advocate with over two decades of leadership experience across the public and private sectors. Serving as Chief Executive Officer of the Consumer Council of Fiji since 2019, championing consumer rights through strategic advocacy, policy reform, and institutional strengthening. Has led numerous donor-funded projects and secured funding to modernise the Council’s systems, making consumer complaint lodgement more accessible. Currently a Council Member of Consumers International, Chairperson of the Fiji Medicinal Products Board, and Deputy Chairperson of the Trade and Standards Advisory Committee. Expertise spans consumer protection, climate change, financial literacy, and project management. Holds a Master of Business Administration and a Master of Commerce from the University of the South Pacific.</p>
+              <span class="experience-tag">Strategic Advocacy &amp; Policy &amp; Reform</span>
             </div>
           </div>
         </div>
