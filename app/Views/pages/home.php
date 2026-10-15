@@ -508,16 +508,16 @@
 
       <div class="sponsor-tier-label">PLATINUM</div>
       <div class="row g-3 mb-4">
-        <div class="col-6 col-md-3"><div class="sponsor-box"><img src="assets/img/sponsors/fiji-water.svg" alt="Fiji Water" class="sponsor-logo"></div></div>
-        <div class="col-6 col-md-3"><div class="sponsor-box"><img src="assets/img/sponsors/fiji-airways.svg" alt="Fiji Airways" class="sponsor-logo"></div></div>
+        <div class="col-6 col-md-3"><div class="sponsor-box"><img src="assets/img/sponsors/tfl.jpg" alt="EFL" class="sponsor-logo"></div></div>
+        <!--div class="col-6 col-md-3"><div class="sponsor-box"><img src="assets/img/sponsors/fiji-airways.svg" alt="Fiji Airways" class="sponsor-logo"></div></div>
         <div class="col-6 col-md-3"><div class="sponsor-box"><img src="assets/img/sponsors/vodafone.svg" alt="Vodafone" class="sponsor-logo"></div></div>
-        <div class="col-6 col-md-3"><div class="sponsor-box"><img src="assets/img/sponsors/anz.svg" alt="ANZ" class="sponsor-logo"></div></div>
+        <div class="col-6 col-md-3"><div class="sponsor-box"><img src="assets/img/sponsors/anz.svg" alt="ANZ" class="sponsor-logo"></div></div-->
       </div>
 
       <div class="sponsor-tier-label">GOLD & SILVER</div>
       <div class="row g-3 mb-4">
-        <div class="col-6 col-md-2"><div class="sponsor-box"><img src="assets/img/sponsors/coca-cola.svg" alt="Coca-Cola" class="sponsor-logo"></div></div>
-        <div class="col-6 col-md-2"><div class="sponsor-box"><img src="assets/img/sponsors/westpac.svg" alt="Westpac" class="sponsor-logo"></div></div>
+        <div class="col-6 col-md-2"><div class="sponsor-box"><img src="assets/img/sponsors/datec.jpg" alt="Datec" class="sponsor-logo"></div></div>
+        <div class="col-6 col-md-2"><div class="sponsor-box"><img src="assets/img/sponsors/vodafone.jpg" alt="Vodafone" class="sponsor-logo"></div></div>
         <div class="col-6 col-md-2"><div class="sponsor-box"><img src="assets/img/sponsors/hilton.svg" alt="Hilton" class="sponsor-logo"></div></div>
         <div class="col-6 col-md-2"><div class="sponsor-box"><img src="assets/img/sponsors/digicel.svg" alt="Digicel" class="sponsor-logo"></div></div>
         <div class="col-6 col-md-2"><div class="sponsor-box"><img src="assets/img/sponsors/bsp.svg" alt="BSP Bank" class="sponsor-logo"></div></div>
