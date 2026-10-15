@@ -1,5 +1,5 @@
 
-<section class="page-hero">
+<section class="page-hero text-center">
     <div class="container">
       <div class="section-kicker">Program</div>
       <h1>Event Day, mapped out.</h1>
