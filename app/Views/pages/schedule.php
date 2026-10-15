@@ -2,8 +2,8 @@
 <section class="page-hero text-center">
     <div class="container">
       <div class="section-kicker">Program</div>
-      <h1>Event Day, mapped out.</h1>
-      <p>25 October 2026 &middot; Grand Pacific Harbour Centre, Suva. All sessions are in Fiji Time (FJT, UTC+12).</p>
+      <h1 class="text-center">Event Day, mapped out.</h1>
+      <p class="text-center">25 October 2026 &middot; Grand Pacific Harbour Centre, Suva. All sessions are in Fiji Time (FJT, UTC+12).</p>
     </div>
   </section>
 
