@@ -508,7 +508,7 @@
 
       <div class="sponsor-tier-label">PLATINUM</div>
       <div class="row g-3 mb-4">
-        <div class="col-6 col-md-3"><div class="sponsor-box"><img src="assets/img/sponsors/tfl.jpg" alt="EFL" class="sponsor-logo"></div></div>
+        <div class="col-6 col-md-3"><div class="sponsor-box"><img src="assets/img/sponsors/tfl.jpg" alt="TFL" class="sponsor-logo"></div></div>
         <!--div class="col-6 col-md-3"><div class="sponsor-box"><img src="assets/img/sponsors/fiji-airways.svg" alt="Fiji Airways" class="sponsor-logo"></div></div>
         <div class="col-6 col-md-3"><div class="sponsor-box"><img src="assets/img/sponsors/vodafone.svg" alt="Vodafone" class="sponsor-logo"></div></div>
         <div class="col-6 col-md-3"><div class="sponsor-box"><img src="assets/img/sponsors/anz.svg" alt="ANZ" class="sponsor-logo"></div></div-->
@@ -518,18 +518,18 @@
       <div class="row g-3 mb-4">
         <div class="col-6 col-md-2"><div class="sponsor-box"><img src="assets/img/sponsors/datec.jpg" alt="Datec" class="sponsor-logo"></div></div>
         <div class="col-6 col-md-2"><div class="sponsor-box"><img src="assets/img/sponsors/vodafone.jpg" alt="Vodafone" class="sponsor-logo"></div></div>
-        <div class="col-6 col-md-2"><div class="sponsor-box"><img src="assets/img/sponsors/hilton.svg" alt="Hilton" class="sponsor-logo"></div></div>
-        <div class="col-6 col-md-2"><div class="sponsor-box"><img src="assets/img/sponsors/digicel.svg" alt="Digicel" class="sponsor-logo"></div></div>
+        <div class="col-6 col-md-2"><div class="sponsor-box"><img src="assets/img/sponsors/topan.jpg" alt="Topan" class="sponsor-logo"></div></div>
+        <!--div class="col-6 col-md-2"><div class="sponsor-box"><img src="assets/img/sponsors/digicel.svg" alt="Digicel" class="sponsor-logo"></div></div>
         <div class="col-6 col-md-2"><div class="sponsor-box"><img src="assets/img/sponsors/bsp.svg" alt="BSP Bank" class="sponsor-logo"></div></div>
-        <div class="col-6 col-md-2"><div class="sponsor-box"><img src="assets/img/sponsors/fiji-bitter.svg" alt="Fiji Bitter - Carlton Brewery" class="sponsor-logo"></div></div>
+        <div class="col-6 col-md-2"><div class="sponsor-box"><img src="assets/img/sponsors/fiji-bitter.svg" alt="Fiji Bitter - Carlton Brewery" class="sponsor-logo"></div></div-->
       </div>
 
       <div class="sponsor-tier-label">PARTNERS</div>
       <div class="row g-3">
-        <div class="col-6 col-md-2"><div class="sponsor-box"><img src="assets/img/sponsors/coral-air.svg" alt="Coral Air" class="sponsor-logo"></div></div>
-        <div class="col-6 col-md-2"><div class="sponsor-box"><img src="assets/img/sponsors/lagoon-studio.svg" alt="Lagoon Studio" class="sponsor-logo"></div></div>
-        <div class="col-6 col-md-2"><div class="sponsor-box"><img src="assets/img/sponsors/vanua-print.svg" alt="Vanua Print Co." class="sponsor-logo"></div></div>
-        <div class="col-6 col-md-2"><div class="sponsor-box"><img src="assets/img/sponsors/eu-cybernet.png" alt="Bula Roasters" class="sponsor-logo"></div></div>
+        <div class="col-6 col-md-2"><div class="sponsor-box"><img src="assets/img/sponsors/webmedia.jpg" alt="Webmedia" class="sponsor-logo"></div></div>
+        <div class="col-6 col-md-2"><div class="sponsor-box"><img src="assets/img/sponsors/uncdf.jpg" alt="UNCDF" class="sponsor-logo"></div></div>
+        <div class="col-6 col-md-2"><div class="sponsor-box"><img src="assets/img/sponsors/eu-cybernet.png" alt="EUCybernet" class="sponsor-logo"></div></div>
+        <div class="col-6 col-md-2"><div class="sponsor-box"><img src="assets/img/sponsors/australia.jpg" alt="Australia" class="sponsor-logo"></div></div>
       </div>
     </div>
   </section>
