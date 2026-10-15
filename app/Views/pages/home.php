@@ -177,7 +177,7 @@
             <div class="speaker-overlay">
               <h5>Faraz Khan</h5>
               <p class="designation">Cybersecurity Lecturer, Victoria University</p>
-              <p class="experience">EU CyberNet expert, cybersecurity educator, and winner of the 2026 Australian Cyber Battle CTF, as well as a finalist for the 2026 Australian Information Security Association (AISA) Educator of the Year Award. As a cybersecurity lecturer at Victoria University and a 2025 International Vocational Education and Training Practitioner Fellow, Faraz creates practical, engaging learning experiences that build real-world cyber skills. Specialising in hands-on challenges, Capture the Flag activities, workshops, and scenario-based training, cybersecurity is made accessible, collaborative, and enjoyable for aspiring professionals.</p>
+              <p class="experience">EU CyberNet expert, cybersecurity educator, and winner of the 2026 Australian Cyber Battle CTF, as well as a finalist for the 2026 Australian Information Security Association (AISA) Educator of the Year Award. As a cybersecurity lecturer at Victoria University and a 2025 International Vocational Education and Training Practitioner Fellow, Faraz creates practical, engaging learning experiences that build real-world cyber skills.</p>
               <span class="experience-tag">Cybersecurity &amp; Lecturer</span>
             </div>
           </div>
@@ -211,7 +211,7 @@
             <div class="speaker-overlay">
               <h5>Seema Shandil</h5>
               <p class="designation">Chief Executive Officer, Consumer Council of Fiji</p>
-              <p class="experience">A passionate consumer advocate with over two decades of leadership experience across the public and private sectors. Serving as Chief Executive Officer of the Consumer Council of Fiji since 2019, championing consumer rights through strategic advocacy, policy reform, and institutional strengthening. Has led numerous donor-funded projects and secured funding to modernise the Council’s systems, making consumer complaint lodgement more accessible. Currently a Council Member of Consumers International, Chairperson of the Fiji Medicinal Products Board, and Deputy Chairperson of the Trade and Standards Advisory Committee. Expertise spans consumer protection, climate change, financial literacy, and project management. Holds a Master of Business Administration and a Master of Commerce from the University of the South Pacific.</p>
+              <p class="experience">A passionate consumer advocate with over two decades of leadership experience across the public and private sectors. Serving as Chief Executive Officer of the Consumer Council of Fiji since 2019, championing consumer rights through strategic advocacy, policy reform, and institutional strengthening. Has led numerous donor-funded projects and secured funding to modernise the Council’s systems, making consumer complaint lodgement more accessible. </p>
               <span class="experience-tag">Strategic Advocacy &amp; Policy &amp; Reform</span>
             </div>
           </div>
