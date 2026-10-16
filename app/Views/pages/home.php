@@ -252,7 +252,7 @@
         </div>
 
         <!-- Speaker 9 -->
-        <div class="col-md-6 col-lg-4">
+        <div class="col-md-6 col-lg-3">
           <div class="speaker-card">
             <img class="speaker-photo" src="assets/img/profile/9.jpg" alt="Portrait of Nereo Penalver-Garcia">
             <div class="speaker-default-label">
@@ -269,7 +269,7 @@
         </div>
 
         <!-- Speaker 10 -->
-        <div class="col-md-6 col-lg-4">
+        <div class="col-md-6 col-lg-3">
           <div class="speaker-card">
             <img class="speaker-photo" src="assets/img/profile/10.jpg" alt="Portrait of Hannah Bradshaw">
             <div class="speaker-default-label">
@@ -286,9 +286,9 @@
         </div>
 
         <!-- Speaker 11 -->
-        <div class="col-md-6 col-lg-4">
+        <div class="col-md-6 col-lg-3">
           <div class="speaker-card">
-            <img class="speaker-photo" src="assets/img/profile/10.jpg" alt="Portrait of Lee Sea Lin">
+            <img class="speaker-photo" src="assets/img/profile/11.jpg" alt="Portrait of Lee Sea Lin">
             <div class="speaker-default-label">
               <h5>Lee Sea Lin</h5>
               <span>Senior Vice Precident, Solutions & Services, TOPPAN Ecquaria Pte Ltd</span>
