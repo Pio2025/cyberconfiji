@@ -81,6 +81,57 @@
 
       <div class="row g-4">
 
+        <!-- Speaker 12 -->
+        <div class="col-md-6 col-lg-4">
+          <div class="speaker-card">
+            <img class="speaker-photo" src="assets/img/profile/10.jpg" alt="Portrait of Hon. Ioane Naivalurua">
+            <div class="speaker-default-label">
+              <h5>Hon. Ioane Naivalurua</h5>
+              <span>Minister for Policing and Communications</span>
+            </div>
+            <div class="speaker-overlay">
+              <h5>Hon. Ioane Naivalurua</h5>
+              <p class="designation">Minister for Policing and Communications</p>
+              <p class="experience"></p>
+              <span class="experience-tag">Policing and Communications</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Speaker 13 -->
+        <div class="col-md-6 col-lg-4">
+          <div class="speaker-card">
+            <img class="speaker-photo" src="assets/img/profile/10.jpg" alt="Portrait of Hon. Manoa Kamikamica">
+            <div class="speaker-default-label">
+              <h5>Hon. Manoa Kamikamica</h5>
+              <span>Deputy Prime Minister & Minister for Industries, Commerce, Business Development and Public Enterprises </span>
+            </div>
+            <div class="speaker-overlay">
+              <h5>Hon. Manoa Kamikamica</h5>
+              <p class="designation">Deputy Prime Minister & Minister for Industries, Commerce, Business Development and Public Enterprises</p>
+              <p class="experience"></p>
+              <span class="experience-tag">Commerce & Business Development</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Speaker 4 -->
+        <div class="col-md-6 col-lg-3">
+          <div class="speaker-card">
+            <img class="speaker-photo" src="assets/img/profile/4.jpg" alt="Portrait of Peter Roberts">
+            <div class="speaker-default-label">
+              <h5>Peter Roberts</h5>
+              <span>Australian High Commissioner to Fiji, Australian High Commission</span>
+            </div>
+            <div class="speaker-overlay">
+              <h5>Peter Roberts</h5>
+              <p class="designation">Australian High Commissioner to Fiji, Australian High Commission</p>
+              <p class="experience">Previously served overseas as Australia's Ambassador to Timor-Leste, with postings in Australian diplomatic missions in Samoa and Japan, and as a Senior Civilian Monitor in Bougainville, Papua New Guinea.</p>
+              <span class="experience-tag">Diplomatic Leadership</span>
+            </div>
+          </div>
+        </div>
+
         <!-- Speaker 1 -->
         <div class="col-md-6 col-lg-3">
           <div class="speaker-card">
@@ -128,23 +179,6 @@
               <p class="designation">Academic in Computing Science and Information Systems, The University of the South Pacific</p>
               <p class="experience">An academic in Computing Science and Information Systems at the University of the South Pacific (USP) and a PhD Candidate specialising in cybersecurity. Areas of expertise include computer and network security, network administration, and cloud computing.</p>
               <span class="experience-tag">Academic &amp; Network Security</span>
-            </div>
-          </div>
-        </div>
-
-        <!-- Speaker 4 -->
-        <div class="col-md-6 col-lg-3">
-          <div class="speaker-card">
-            <img class="speaker-photo" src="assets/img/profile/4.jpg" alt="Portrait of Peter Roberts">
-            <div class="speaker-default-label">
-              <h5>Peter Roberts</h5>
-              <span>Australian High Commissioner to Fiji, Australian High Commission</span>
-            </div>
-            <div class="speaker-overlay">
-              <h5>Peter Roberts</h5>
-              <p class="designation">Australian High Commissioner to Fiji, Australian High Commission</p>
-              <p class="experience">Previously served overseas as Australia's Ambassador to Timor-Leste, with postings in Australian diplomatic missions in Samoa and Japan, and as a Senior Civilian Monitor in Bougainville, Papua New Guinea.</p>
-              <span class="experience-tag">Diplomatic Leadership</span>
             </div>
           </div>
         </div>
@@ -245,8 +279,25 @@
             <div class="speaker-overlay">
               <h5>Hannah Bradshaw</h5>
               <p class="designation">Cybersecurity Policy Secondee | Head, Cyber Affairs, Department of Communications</p>
-              <p class="experience">Deputy Head of the EU Delegation to the Pacific (First Counsellor), responsible for relations with thirteen Pacific Island Countries. Assumed the posting on 1 September 2024.</p>
-              <span class="experience-tag">Technology &amp; Education</span>
+              <p class="experience"></p>
+              <span class="experience-tag">Cybersecurity &amp; Cyber Affairs</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Speaker 11 -->
+        <div class="col-md-6 col-lg-4">
+          <div class="speaker-card">
+            <img class="speaker-photo" src="assets/img/profile/10.jpg" alt="Portrait of Lee Sea Lin">
+            <div class="speaker-default-label">
+              <h5>Lee Sea Lin</h5>
+              <span>Senior Vice Precident, Solutions & Services, TOPPAN Ecquaria Pte Ltd</span>
+            </div>
+            <div class="speaker-overlay">
+              <h5>Lee Sea Lin</h5>
+              <p class="designation">Senior Vice Precident, Solutions & Services, TOPPAN Ecquaria Pte Ltd</p>
+              <p class="experience">Senior Vice President of Solutions & Services at TOPPAN Ecquaria, leading the company’s pre-sales, solutioning, and services teams. Helps governments and enterprises turn complex digital transformation ambitions into practical, citizen-centric outcomes.</p>
+              <span class="experience-tag">Cybersecurity &amp; Cyber Affairs</span>
             </div>
           </div>
         </div>
