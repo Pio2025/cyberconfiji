@@ -84,7 +84,7 @@
         <!-- Speaker 12 -->
         <div class="col-md-6 col-lg-4">
           <div class="speaker-card">
-            <img class="speaker-photo" src="assets/img/profile/10.jpg" alt="Portrait of Hon. Ioane Naivalurua">
+            <img class="speaker-photo" src="assets/img/profile/12.jpg" alt="Portrait of Hon. Ioane Naivalurua">
             <div class="speaker-default-label">
               <h5>Hon. Ioane Naivalurua</h5>
               <span>Minister for Policing and Communications</span>
@@ -101,7 +101,7 @@
         <!-- Speaker 13 -->
         <div class="col-md-6 col-lg-4">
           <div class="speaker-card">
-            <img class="speaker-photo" src="assets/img/profile/10.jpg" alt="Portrait of Hon. Manoa Kamikamica">
+            <img class="speaker-photo" src="assets/img/profile/13.jpg" alt="Portrait of Hon. Manoa Kamikamica">
             <div class="speaker-default-label">
               <h5>Hon. Manoa Kamikamica</h5>
               <span>Deputy Prime Minister & Minister for Industries, Commerce, Business Development and Public Enterprises </span>
