@@ -302,6 +302,40 @@
           </div>
         </div>
 
+        <!-- Speaker 11 -->
+        <div class="col-md-6 col-lg-3">
+          <div class="speaker-card">
+            <img class="speaker-photo" src="assets/img/profile/14.jpg" alt="Portrait of David Eyre">
+            <div class="speaker-default-label">
+              <h5>David Eyre</h5>
+              <span>Chairman, Telecom Fiji</span>
+            </div>
+            <div class="speaker-overlay">
+              <h5>David Eyre</h5>
+              <p class="designation">Chairman, Telecom Fiji</p>
+              <p class="experience">25 years across telecommunications, broadcast television, energy access, and climate finance sectors, showcasing his versatile prowess in both private and public sectors. His career encompasses diverse roles, including spearheading Business Development in fixed-line telecommunications, supervising operations for prepaid voice and data products, and overseeing residential ISP operations with Telecom Fiji and its subsidiary TransTel.</p>
+              <span class="experience-tag">Telecommunications &amp; Communications</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Speaker 11 -->
+        <div class="col-md-6 col-lg-3">
+          <div class="speaker-card">
+            <img class="speaker-photo" src="assets/img/profile/15.jpg" alt="Portrait of Tori Lamb">
+            <div class="speaker-default-label">
+              <h5>Tori Lamb</h5>
+              <span></span>
+            </div>
+            <div class="speaker-overlay">
+              <h5>Tori Lamb</h5>
+              <p class="designation"></p>
+              <p class="experience"></p>
+              <span class="experience-tag">Telecommunications &amp; Communications</span>
+            </div>
+          </div>
+        </div>
+
       </div>
     </div>
   </section>

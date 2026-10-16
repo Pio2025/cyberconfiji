@@ -3,7 +3,7 @@
     <div class="container">
       <div class="section-kicker">Program</div>
       <h1 class="text-center">Event Day, mapped out.</h1>
-      <p class="text-center">25 October 2026 &middot; Grand Pacific Harbour Centre, Suva. All sessions are in Fiji Time (FJT, UTC+12).</p>
+      <p class="text-center">25 October 2026 &middot; Grand Pacific Hotel, Suva. All sessions are in Fiji Time.</p>
     </div>
   </section>
 
@@ -270,7 +270,8 @@
       <div class="cta-strip">
         <h2>Planning your event day?</h2>
         <p>The delegate handbook, venue map and travel guide are all in one place.</p>
-        <a href="#" class="btn btn-accent">Download Program</a>
+        <!--a href="#" class="btn btn-accent">Download Program</a-->
+        <img src="assets/img/qr/rsvp.png" height="250px" class="" >
       </div>
     </div>
   </section>
