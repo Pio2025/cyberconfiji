@@ -40,6 +40,7 @@
         <!--li class="nav-item"><a class="nav-link" data-section="about" href="about.html">About</a></li-->
         <li class="nav-item"><a class="nav-link <?php if($page == 'schedule'){echo 'active';} ?>" data-section="schedule" href="<?php echo base_url('schedule'); ?>">Schedules</a></li>
         <!--li class="nav-item"><a class="nav-link" data-section="speakers" href="speakers.html">Speakers</a></li-->
+        <li class="nav-item"><a class="nav-link <?php if($page == 'attendance'){echo 'active';} ?>" data-section="attendance" href="<?php echo base_url('attendance'); ?>">Attendance</a></li>
         <li class="nav-item"><a class="nav-link <?php if($page == 'contact'){echo 'active';} ?>" href="<?php echo base_url('contact'); ?>">Contact Us</a></li>
         <!--li class="nav-item"><a class="nav-link" href="resources.html">Event Resources</a></li-->
       </ul>
@@ -94,6 +95,7 @@
 
       <div class="col-6 col-lg-2">
         <h6>Attend</h6>
+        <a href="<?php echo base_url('attendance'); ?>">Confirm Attendance</a>
         <a href="<?php echo base_url('contact'); ?>">Contact Us</a>
       </div>
 

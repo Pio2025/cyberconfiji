@@ -7,3 +7,5 @@ $routes->get('/', 'Home::index');
 $routes->get('schedule', 'Home::schedule');
 $routes->get('contact', 'Home::contact');
 $routes->post('contact/send', 'Home::send');
+$routes->get('attendance', 'Home::attendance');
+$routes->post('attendance/submit', 'Home::attendanceSubmit');

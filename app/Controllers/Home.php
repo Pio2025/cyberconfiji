@@ -2,6 +2,8 @@
 
 namespace App\Controllers;
 
+use App\Models\AttendeeModel;
+
 class Home extends BaseController
 {
     public function index(): string
@@ -23,6 +25,67 @@ class Home extends BaseController
         $data['page'] = 'schedule';
         $data['_view'] = 'pages/schedule';
         return view('layouts/main',$data);
+    }
+
+    public function attendance(): string
+    {
+        $data['page'] = 'attendance';
+        $data['_view'] = 'pages/attendance';
+        return view('layouts/main',$data);
+    }
+
+    public function attendanceSubmit()
+    {
+        // Only accept POST
+        if (! $this->request->is('post')) {
+            return $this->response->setJSON(['status' => 'error', 'message' => 'Invalid request.']);
+        }
+
+        $fullName     = trim((string) $this->request->getPost('full_name'));
+        $organisation = trim((string) $this->request->getPost('organisation'));
+        $email        = trim((string) $this->request->getPost('email'));
+
+        $attendeeModel = new AttendeeModel();
+
+        $data = [
+            'full_name'    => $fullName,
+            'organisation' => $organisation,
+            'email'        => $email,
+        ];
+
+        if (! $attendeeModel->insert($data)) {
+            return $this->response->setJSON([
+                'status'  => 'error',
+                'message' => 'Please check the form.',
+                'errors'  => $attendeeModel->errors(),
+            ]);
+        }
+
+        // Sanitise for output (email body / view)
+        $fullNameOut     = esc($fullName);
+        $organisationOut = esc($organisation);
+        $emailOut        = esc($email);
+
+        // Build HTML acknowledgement email
+        $body = view('emails/attendance_ack', [
+            'fullName'     => $fullNameOut,
+            'organisation' => $organisationOut,
+            'email'        => $emailOut,
+        ]);
+
+        $emailService = \Config\Services::email();
+        $emailService->setTo($email);
+        $emailService->setSubject('You\'re confirmed — Cyber Security Convention 2026');
+        $emailService->setMessage($body);
+
+        if (! $emailService->send(false)) {
+            log_message('error', 'Attendance acknowledgement email failed: ' . $emailService->printDebugger(['headers']));
+        }
+
+        return $this->response->setJSON([
+            'status'  => 'success',
+            'message' => "Thanks, {$fullNameOut} — your attendance is recorded. A confirmation email is on its way to {$emailOut}.",
+        ]);
     }
 
     public function send()
