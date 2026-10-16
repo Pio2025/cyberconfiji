@@ -82,7 +82,7 @@
       <div class="row g-4">
 
         <!-- Speaker 12 -->
-        <div class="col-md-6 col-lg-4">
+        <div class="col-md-6 col-lg-3">
           <div class="speaker-card">
             <img class="speaker-photo" src="assets/img/profile/12.jpg" alt="Portrait of Hon. Ioane Naivalurua">
             <div class="speaker-default-label">
@@ -99,7 +99,7 @@
         </div>
 
         <!-- Speaker 13 -->
-        <div class="col-md-6 col-lg-4">
+        <div class="col-md-6 col-lg-3">
           <div class="speaker-card">
             <img class="speaker-photo" src="assets/img/profile/13.jpg" alt="Portrait of Hon. Manoa Kamikamica">
             <div class="speaker-default-label">
