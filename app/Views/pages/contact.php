@@ -8,7 +8,7 @@
 
   <div class="breadcrumb-bar">
     <div class="container">
-      <a href="index.html">Home</a><span class="sep">/</span><span class="current">Contact Us</span>
+      <a href="<?php echo base_url(); ?>">Home</a><span class="sep">/</span><span class="current">Contact Us</span>
     </div>
   </div>
 
