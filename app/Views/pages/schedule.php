@@ -9,7 +9,7 @@
 
   <div class="breadcrumb-bar">
     <div class="container">
-      <a href="<?php base_url(); ?>">Home</a><span class="sep">/</span><span class="current">Schedules</span>
+      <a href="<?php echo base_url(); ?>">Home</a><span class="sep">/</span><span class="current">Schedules</span>
     </div>
   </div>
 
