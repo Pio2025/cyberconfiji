@@ -18,23 +18,23 @@
 
           <ul class="hero-pillars list-unstyled">
             <li class="hero-pillar">
-              <span class="hero-pillar-num">P1</span>
+              <span class="hero-pillar-bullet"></span>
               <span class="hero-pillar-text">Empowering Cyber-Aware and Digitally Safe Communities and Businesses</span>
             </li>
             <li class="hero-pillar">
-              <span class="hero-pillar-num">P2</span>
+              <span class="hero-pillar-bullet"></span>
               <span class="hero-pillar-text">Strengthening Cyber Incident and Cybercrime Response</span>
             </li>
             <li class="hero-pillar">
-              <span class="hero-pillar-num">P3</span>
+              <span class="hero-pillar-bullet"></span>
               <span class="hero-pillar-text">Protecting Government Systems, Critical Infrastructure, Data and Assets</span>
             </li>
             <li class="hero-pillar">
-              <span class="hero-pillar-num">P4</span>
+              <span class="hero-pillar-bullet"></span>
               <span class="hero-pillar-text">Developing a Skilled and Diverse Cybersecurity Workforce</span>
             </li>
             <li class="hero-pillar">
-              <span class="hero-pillar-num">P5</span>
+              <span class="hero-pillar-bullet"></span>
               <span class="hero-pillar-text">Enhancing Cybersecurity Leadership and International Cooperation</span>
             </li>
           </ul>

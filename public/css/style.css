@@ -288,19 +288,14 @@ a { text-decoration: none; }
   backdrop-filter: blur(2px);
 }
 
-.hero-pillar-num {
+.hero-pillar-bullet {
   flex-shrink: 0;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 30px;
-  height: 30px;
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  margin-top: 0.4rem;
   border-radius: 50%;
-  background: rgba(47, 164, 231, 0.18);
-  color: var(--blue-accent-light);
-  font-family: var(--font-display);
-  font-weight: 700;
-  font-size: 0.78rem;
+  background: var(--blue-accent-light);
 }
 
 .hero-pillar-text {
