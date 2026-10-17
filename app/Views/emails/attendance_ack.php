@@ -18,7 +18,7 @@
                   <!-- Logo (left) -->
                   <td align="left" valign="middle" style="width:60px;">
                     <img
-                        src="<?= base_url('assets/img/logo-white.png') ?>"
+                        src="<?= base_url('assets/img/logo.png') ?>"
                         alt="CyberCon Fiji"
                         width="48"
                         height="48"
@@ -66,7 +66,7 @@
 
               <h3 style="margin:0 0 8px;font-size:15px;color:#0b3d91;">Event details</h3>
               <div style="padding:16px;background:#f9fafb;border-left:3px solid #0b3d91;border-radius:4px;font-size:14px;line-height:1.7;">
-                <strong>Date:</strong> 25 October 2026<br>
+                <strong>Date:</strong> 28 October 2026<br>
                 <strong>Venue:</strong> Grand Pacific Hotel, Victoria Parade, Suva, Fiji<br>
                 <strong>Time:</strong> Sessions run throughout the day &mdash; the full program is available on the event website.
               </div>

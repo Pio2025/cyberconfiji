@@ -13,7 +13,7 @@
     <div class="container hero-content text-center">
       <div class="row justify-content-center">
         <div class="col-xl-9">
-          <div class="section-kicker">25 OCTOBER 2026 &nbsp;&middot;&nbsp; SUVA, FIJI</div>
+          <div class="section-kicker">28 OCTOBER 2026 &nbsp;&middot;&nbsp; SUVA, FIJI</div>
           <h1 class="hero-heading">National Cybersecurity and Resilience Convention 2026.</h1>
           <p class="hero-sub">One day. One mission. Plenaries, workshops and working sessions uniting government, industry and communities to secure Fiji's digital future.</p>
           <div class="d-flex flex-wrap gap-3 justify-content-center">
@@ -355,7 +355,7 @@
 
       <ul class="nav schedule-tabs mb-3" id="scheduleTab" role="tablist">
         <li class="nav-item" role="presentation">
-          <button class="nav-link active" id="day1-tab" data-bs-toggle="tab" data-bs-target="#day1" type="button" role="tab">Event Day &mdash; 25 Oct</button>
+          <button class="nav-link active" id="day1-tab" data-bs-toggle="tab" data-bs-target="#day1" type="button" role="tab">Event Day &mdash; 28 Oct</button>
         </li>
         <!--li class="nav-item" role="presentation">
           <button class="nav-link" id="day2-tab" data-bs-toggle="tab" data-bs-target="#day2" type="button" role="tab">Day Two &mdash; 15 May</button>

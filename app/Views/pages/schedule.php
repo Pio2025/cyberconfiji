@@ -3,7 +3,7 @@
     <div class="container">
       <div class="section-kicker">Program</div>
       <h1 class="text-center">Event Day, mapped out.</h1>
-      <p class="text-center">25 October 2026 &middot; Grand Pacific Hotel, Suva. All sessions are in Fiji Time.</p>
+      <p class="text-center">28 October 2026 &middot; Grand Pacific Hotel, Suva. All sessions are in Fiji Time.</p>
     </div>
   </section>
 
@@ -19,7 +19,7 @@
       <div class="d-flex flex-column flex-sm-row justify-content-between align-items-sm-center gap-3 mb-4">
         <ul class="nav schedule-tabs mb-0" id="scheduleTab" role="tablist">
           <li class="nav-item" role="presentation">
-            <button class="nav-link active" id="day1-tab" data-bs-toggle="tab" data-bs-target="#day1" type="button" role="tab">Event Day &mdash; 25 October</button>
+            <button class="nav-link active" id="day1-tab" data-bs-toggle="tab" data-bs-target="#day1" type="button" role="tab">Event Day &mdash; 28 October</button>
           </li>
         </ul>
         <a href="resources.html" class="btn btn-navy"><i class="bi bi-download me-2"></i>Download Agenda (PDF)</a>

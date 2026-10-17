@@ -18,7 +18,7 @@
                     <!-- Logo (left) -->
                     <td align="left" valign="middle" style="width:60px;">
                     <img
-                        src="<?= base_url('assets/img/logo-white.png') ?>"
+                        src="<?= base_url('assets/img/logo.png') ?>"
                         alt="CyberCon Fiji"
                         width="48"
                         height="48"
