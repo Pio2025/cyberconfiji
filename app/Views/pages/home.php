@@ -15,7 +15,30 @@
         <div class="col-xl-9">
           <div class="section-kicker">28 OCTOBER 2026 &nbsp;&middot;&nbsp; SUVA, FIJI</div>
           <h1 class="hero-heading">National Cybersecurity and Resilience Convention 2026.</h1>
-          <p class="hero-sub">One day. One mission. Plenaries, workshops and working sessions uniting government, industry and communities to secure Fiji's digital future.</p>
+
+          <ul class="hero-pillars list-unstyled">
+            <li class="hero-pillar">
+              <span class="hero-pillar-num">P1</span>
+              <span class="hero-pillar-text">Empowering Cyber-Aware and Digitally Safe Communities and Businesses</span>
+            </li>
+            <li class="hero-pillar">
+              <span class="hero-pillar-num">P2</span>
+              <span class="hero-pillar-text">Strengthening Cyber Incident and Cybercrime Response</span>
+            </li>
+            <li class="hero-pillar">
+              <span class="hero-pillar-num">P3</span>
+              <span class="hero-pillar-text">Protecting Government Systems, Critical Infrastructure, Data and Assets</span>
+            </li>
+            <li class="hero-pillar">
+              <span class="hero-pillar-num">P4</span>
+              <span class="hero-pillar-text">Developing a Skilled and Diverse Cybersecurity Workforce</span>
+            </li>
+            <li class="hero-pillar">
+              <span class="hero-pillar-num">P5</span>
+              <span class="hero-pillar-text">Enhancing Cybersecurity Leadership and International Cooperation</span>
+            </li>
+          </ul>
+
           <div class="d-flex flex-wrap gap-3 justify-content-center">
             <a href="<?php echo base_url('schedule'); ?>" class="btn btn-accent">View Schedule</a>
             <!--a href="#about" class="btn btn-outline-light-custom">Learn More</a-->
@@ -329,9 +352,9 @@
             </div>
             <div class="speaker-overlay">
               <h5>Tori Lamb</h5>
-              <p class="designation"></p>
+              <p class="designation">Assistant Secretary, Cyber Affairs and Critical Technology Branch, Department of Foreign Affairs and Trade, Australia</p>
               <p class="experience"></p>
-              <span class="experience-tag">Telecommunications &amp; Communications</span>
+              <span class="experience-tag">Cyber Affairs &amp; Communications</span>
             </div>
           </div>
         </div>

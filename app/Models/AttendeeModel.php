@@ -29,13 +29,14 @@ class AttendeeModel extends Model
 
     // Validation
     protected $validationRules      = [
-        'full_name'    => 'required|min_length[2]|max_length[100]',
+        'full_name'    => 'required|min_length[2]|max_length[100]|is_unique[attendees.full_name]',
         'organisation' => 'required|min_length[2]|max_length[150]',
         'email'        => 'required|valid_email|max_length[150]|is_unique[attendees.email]',
     ];
     protected $validationMessages   = [
         'full_name' => [
-            'required' => 'Please enter your full name.',
+            'required'  => 'Please enter your full name.',
+            'is_unique' => 'This name has already registered to attend.',
         ],
         'organisation' => [
             'required' => 'Please enter your organisation.',
