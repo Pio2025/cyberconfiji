@@ -27,7 +27,7 @@
 <nav class="navbar navbar-expand-lg main-navbar" id="mainNavbar">
   <div class="container">
     <a class="navbar-brand navbar-brand-wrap" href="index.html">
-      <img src="assets/img/logo-glow.png" alt="Digital Fiji Forum" class="brand-logo">
+      <img src="assets/img/logo.png" alt="Digital Fiji Forum" class="brand-logo">
     </a>
 
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNavContent" aria-controls="mainNavContent" aria-expanded="false" aria-label="Toggle navigation">
