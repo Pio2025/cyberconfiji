@@ -3,6 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light only">
 <title>Cyber Security Convention</title>
 <meta name="description" content="Digital Fiji Forum 2026 brings together Pacific business, technology and policy leaders for two days of ideas, deals and direction.">
 

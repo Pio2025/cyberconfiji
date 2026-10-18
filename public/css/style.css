@@ -4,6 +4,11 @@
    ========================================================= */
 
 :root {
+  /* This site has no dark theme; stop mobile browsers (Samsung Internet's
+     auto-dark/night mode in particular) from auto-inverting images/colors,
+     which can render the logo and other PNGs invisible. */
+  color-scheme: light only;
+
   /* Color tokens */
   --navy-deep: #0a1b33;      /* primary dark surface */
   --navy-deepest: #060f1f;   /* footer / darkest surface */

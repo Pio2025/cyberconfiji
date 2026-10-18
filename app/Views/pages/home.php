@@ -614,7 +614,7 @@
         </div>
 
       <div class="mt-5">
-        <a href="<?php echo base_url('assets/program.pdf'); ?>"  target="_blank" class="btn btn-navy">Download Program</a>
+        <!--a href="<?php echo base_url('assets/program.pdf'); ?>"  target="_blank" class="btn btn-navy">Download Program</a-->
       </div>
     </div>
   </section>
