@@ -22,7 +22,7 @@
             <button class="nav-link active" id="day1-tab" data-bs-toggle="tab" data-bs-target="#day1" type="button" role="tab">Event Day &mdash; 28 October</button>
           </li>
         </ul>
-        <a href="resources.html" class="btn btn-navy"><i class="bi bi-download me-2"></i>Download Agenda (PDF)</a>
+        <a href="<?php echo base_url('assets/program.pdf'); ?>" class="btn btn-navy"><i class="bi bi-download me-2"></i>Download Agenda (PDF)</a>
       </div>
 
       <div class="tab-content">

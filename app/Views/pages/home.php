@@ -348,7 +348,7 @@
             <img class="speaker-photo" src="assets/img/profile/15.jpg" alt="Portrait of Tori Lamb">
             <div class="speaker-default-label">
               <h5>Tori Lamb</h5>
-              <span></span>
+              <span>Assistant Secretary, Cyber Affairs and Critical Technology Branch, Department of Foreign Affairs and Trade, Australia</span>
             </div>
             <div class="speaker-overlay">
               <h5>Tori Lamb</h5>
@@ -614,7 +614,7 @@
         </div>
 
       <div class="mt-5">
-        <a href="#" class="btn btn-navy">Download Program</a>
+        <a href="<?php echo base_url('assets/program.pdf'); ?>" class="btn btn-navy">Download Program</a>
       </div>
     </div>
   </section>
