@@ -51,7 +51,7 @@
             <div class="schedule-time">09:00 &ndash; 09:10</div>
             <div class="schedule-detail">
                 <h6>Welcome Remarks</h6>
-                <span>Opening remarks reflecting on the purpose of Cybersecurity Awareness Month and progress under the National Cybersecurity and Resilience Strategy 2026–2031. &middot; Hon. Minister for Policing and Communications &middot; Ballroom A, GPH</span>
+                <span>Opening remarks reflecting on the purpose of Cybersecurity Awareness Month and progress under the National Cybersecurity and Resilience Strategy 2026–2031. &middot; Permanent Secretary, Policing and Communications &middot; Ballroom A, GPH</span>
             </div>
             </div>
 
@@ -64,30 +64,30 @@
             </div>
             </div>
 
-            <!-- 09:20 – 09:30 -->
+            <!-- 09:20 – 09:40 -->
             <div class="schedule-row">
-            <div class="schedule-time">09:20 &ndash; 09:30</div>
-            <div class="schedule-detail">
-                <h6>Partnership Address – Google</h6>
-                <span>Address by Google's Vice President – Network Solutions, announcing the partnership between Google and Fiji, including 1,000 Google Career Certificate Scholarships. &middot; Mr Brian Quigley, VP, Google Network Solutions &middot; Ballroom A, GPH</span>
-            </div>
-            </div>
-
-            <!-- 09:30 – 09:40 -->
-            <div class="schedule-row">
-            <div class="schedule-time">09:30 &ndash; 09:40</div>
+            <div class="schedule-time">09:20 &ndash; 09:40</div>
             <div class="schedule-detail">
                 <h6>Fireside Chat – Cybersecurity in the Region</h6>
-                <span>A high-level conversation with leaders from Fiji, Australia and PNG on the evolving Pacific cybersecurity landscape, regional cooperation, and building stronger capacity. &middot; Moderator: Ms Hannah Bradshaw &middot; Ballroom A, GPH</span>
+                <span>A high-level conversation bringing together leaders from Fiji, Australia and Papua New Guinea to discuss the evolving cybersecurity landscape in the Pacific, regional cooperation, cyber resilience, and building stronger national and regional capacity to protect our digital future. &middot; Moderator: Mr Vijay Naraya, Journalist &middot; Hon. Ioane Naivalurua, Fiji Minister for Policing and Communications &middot; Hon. Peter Roberts, Australian High Commissioner for Fiji &middot; Hon. Robert Naguri, Papua New Guinea Minister for Information and Communications Technology &middot; Hon. Manoa Kamikamica, Fiji Deputy Prime Minister &middot; Ballroom A, GPH</span>
             </div>
             </div>
 
-            <!-- 09:40 – 09:50 -->
+            <!-- 09:40 – 09:45 -->
             <div class="schedule-row">
-            <div class="schedule-time">09:40 &ndash; 09:50</div>
+            <div class="schedule-time">09:40 &ndash; 09:45</div>
+            <div class="schedule-detail">
+                <h6>Platinum Sponsor Address</h6>
+                <span>TFL &middot; Ballroom A, GPH</span>
+            </div>
+            </div>
+
+            <!-- 09:45 – 09:50 -->
+            <div class="schedule-row">
+            <div class="schedule-time">09:45 &ndash; 09:50</div>
             <div class="schedule-detail">
                 <h6>Official Group Photo</h6>
-                <span>Preceded by a 5–7 minute address with TFL. &middot; Ballroom A, GPH</span>
+                <span>Ballroom A, GPH</span>
             </div>
             </div>
 
@@ -114,7 +114,7 @@
             <div class="schedule-time">10:35 &ndash; 10:50</div>
             <div class="schedule-detail">
                 <h6>Cybersecurity: The Fijian Perspective</h6>
-                <span>Overview of Fiji's current cyber threat landscape, emerging threats and vulnerabilities, and practical priorities for strengthening resilience. &middot; Permanent Secretary, Ministry of Policing and Communications &amp; Ms Catherine Subhaydas, Director, Fiji CERT &middot; Ballroom A, GPH</span>
+                <span>Overview of Fiji's current cyber threat landscape, emerging threats and vulnerabilities, and practical priorities for strengthening resilience. &middot; Ms Catherine Subhaydas, Director, Fiji CERT &middot; Ballroom A, GPH</span>
             </div>
             </div>
 
@@ -131,7 +131,7 @@
             <div class="schedule-time">10:50 &ndash; 11:10</div>
             <div class="schedule-detail">
                 <h6>Track B – Youth &amp; Careers in Cyber: Pathways into the Digital Workforce</h6>
-                <span>A session for youth (15–25) on cyber awareness, online safety, and pathways into cybersecurity careers, including the Cyber Champions Program. &middot; Moderator: Mr Ron Bala, Fiji CERT &middot; Ballroom B, GPH</span>
+                <span>An engaging session empowering young people to explore career opportunities in cybersecurity and the broader digital sector, discover emerging pathways, and gain insights into the skills and opportunities shaping the future of work. &middot; Moderator: Mr Prashil Kumar, CEO, Cyber Acads &middot; Dr. Jashvir Bir, Lecturer, University of South Pacific Fiji &middot; Mr Vikash Prasad, Chief Technical Officer, Vodafone Fiji &middot; Mr Vinit Nand, CEO, Datec Fiji &middot; Ms Pritika Seth, Women in Tech Fiji, CyberHer Program Director &middot; Mr Faraz Khan, EU Cybernet Representative &middot; Ballroom B, GPH</span>
             </div>
             </div>
 
@@ -157,7 +157,7 @@
             <div class="schedule-time">11:30 &ndash; 12:00</div>
             <div class="schedule-detail">
                 <h6>Beyond Defense: Building Cyber Resilience for Critical Infrastructure</h6>
-                <span>How critical infrastructure organisations prepare for, withstand and recover from cyber disruption — with insights from Google on securing complex systems at scale. &middot; Mr Shirshendu Bhattacharya, Google &middot; Ballroom A</span>
+                <span>How critical infrastructure organisations can prepare for, withstand and recover from cyber disruption, with insights on securing complex systems at scale. &middot; Mr. David Eyre, Chair, Telecommunication Authority of Fiji &middot; Ballroom A</span>
             </div>
             </div>
 
@@ -175,7 +175,7 @@
             <div class="schedule-time">13:00 &ndash; 13:20</div>
             <div class="schedule-detail">
                 <h6>Fiji's 24/7 Security Operations Centre – An Overview</h6>
-                <span>Insights on how the 24/7 SOC detects, investigates and responds to cyber threats in real time and why it matters for Fiji. &middot; Mr Tomasi Buli, ITC Services &middot; Ballroom A, GPH</span>
+                <span>Insights on how the 24/7 SOC detects, investigates and responds to cyber threats in real time and why it matters for Fiji. &middot; Mr Tomasi Buli, Manager Systems and a/Manager Security and Operations, ITC Services &middot; Ballroom A, GPH</span>
             </div>
             </div>
 
@@ -192,7 +192,7 @@
             <div class="schedule-time">13:20 &ndash; 13:40</div>
             <div class="schedule-detail">
                 <h6>Data Protection and Governance</h6>
-                <span>How a new data protection policy and emerging legislation will change how organisations think about information — and why cyber awareness builds public trust. &middot; Ms Shariffah Rashidah binti Syed Othman, Personal Data Protection Commissioner, Malaysia &middot; Ballroom A, GPH</span>
+                <span>How a new data protection policy and emerging legislation will change how organisations think about information — and why cyber awareness builds public trust. &middot; Mr Ashial Singh, a/Director DGTO, Ministry of Policing and Communications &middot; Ballroom A, GPH</span>
             </div>
             </div>
 
@@ -209,8 +209,8 @@
             <div class="schedule-row">
             <div class="schedule-time">14:00 &ndash; 15:00</div>
             <div class="schedule-detail">
-                <h6>Cyber Think Before You Click: Cyber Awareness Challenge</h6>
-                <span>An interactive session exploring everyday cyber risks — phishing, scams, social engineering, password security — through realistic examples. &middot; Ms Catherine Subhaydas &amp; Mr Ron Bala, Fiji CERT &middot; Ballroom A, GPH</span>
+                <h6>Cyber Hygiene Essential: Stay Smart, Stay Secure</h6>
+                <span>An interactive session exploring everyday cybersecurity risks and how to recognise them. Participants will work through realistic examples of phishing, scams, social engineering, password security and online threats, testing their ability to identify what is safe and what could be a cyber risk. &middot; Mr Ron Bala, Advisor, Fiji CERT &middot; Ballroom A, GPH</span>
             </div>
             </div>
 
@@ -228,7 +228,7 @@
             <div class="schedule-time">15:15 &ndash; 15:45</div>
             <div class="schedule-detail">
                 <h6>Panel: The Human Side of Cybersecurity — Gendered Threats and Shared Responsibility</h6>
-                <span>How women and men are targeted through doxxing, phishing, identity compromise, impersonation and account takeover — and how we work together to reduce harm. &middot; Moderator: Ms Hannah Bradshaw &middot; Ballroom A, GPH</span>
+                <span>Cybercriminals don't just exploit technology, they exploit people. How women and men are targeted through doxxing, phishing, identity compromise, impersonation and account takeover — and how we work together to recognise threats, reduce harm, and build safer digital communities. &middot; Moderator: Ms Hannah Bradshaw, Head of Cyber Affairs, Ministry of Policing and Communications &middot; Ms Makereta Gavidi, ICT Infrastructure Team Lead, The Pacific Community (SPC) &middot; Mr. Nereo Peñalver García, Deputy Head of Delegation of the European Union to the Pacific &middot; Ms Seema Shandil, Fiji Consumer Council, Chief Executive Officer &middot; Ms Tori Lamb, Assistant Secretary, Cyber Affairs and Critical Technology Branch, Department of Foreign Affairs and Trade, Australia &middot; Ballroom A, GPH</span>
             </div>
             </div>
 
