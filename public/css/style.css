@@ -249,8 +249,8 @@ a { text-decoration: none; }
   padding-top: 5rem;
 }
 
-.hero-content .section-kicker { color: var(--blue-accent); }
-.hero-content .section-kicker::before { background: var(--blue-accent); }
+.hero-content .section-kicker { color: var(--navy-mid); }
+.hero-content .section-kicker::before { background: var(--navy-mid); }
 
 .hero-heading {
   font-size: clamp(2.4rem, 5vw, 4.2rem);
