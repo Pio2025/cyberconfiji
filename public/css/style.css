@@ -249,8 +249,13 @@ a { text-decoration: none; }
   padding-top: 5rem;
 }
 
-.hero-content .section-kicker { color: var(--navy-mid); }
-.hero-content .section-kicker::before { background: var(--navy-mid); }
+.hero-content .section-kicker {
+  color: var(--navy-deep);
+  background: rgba(255,255,255,0.92);
+  padding: 0.35rem 0.9rem;
+  border-radius: 999px;
+}
+.hero-content .section-kicker::before { background: var(--navy-deep); }
 
 .hero-heading {
   font-size: clamp(2.4rem, 5vw, 4.2rem);
