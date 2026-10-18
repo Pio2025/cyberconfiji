@@ -632,8 +632,8 @@ a { text-decoration: none; }
   background: #ffffff;
   transition: border-color 0.2s ease, box-shadow 0.2s ease;
 }
-.sponsor-box--platinum { height: 130px; padding: 1.1rem 1.4rem; }
-.sponsor-box--gold { height: 108px; padding: 0.9rem 1.2rem; }
+.sponsor-box--platinum { height: 155px; padding: 1.3rem 1.6rem; }
+.sponsor-box--gold { height: 122px; padding: 1rem 1.3rem; }
 .sponsor-box:hover { border-color: var(--blue-accent); color: var(--navy-deep); box-shadow: 0 6px 16px rgba(10, 40, 80, 0.08); }
 .sponsor-logo {
   max-width: 100%;
