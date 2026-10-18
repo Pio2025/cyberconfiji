@@ -45,9 +45,9 @@
           </div>
 
           <div class="hero-meta">
-            <!--div><strong>60+</strong>Speakers &amp; facilitators</div>
-            <div><strong>18</strong>Countries represented</div>
-            <div><strong>1,200</strong>Delegates expected</div-->
+            <div><strong>25</strong>Speakers </div>
+            <div><strong>15</strong>Sessions</div>
+            <div><strong>8</strong>Sponsors & Partner</div>
           </div>
         </div>
       </div>
@@ -77,9 +77,9 @@
             <p>The National Cybersecurity and Resilience Convention 2026 aims to bring Fiji together to build a more cyber-aware and resilient nation. Through dialogue, collaboration and knowledge-sharing, the Convention will support the implementation of the National Cybersecurity and Resilience Strategy 2026–2031 and strengthen collective efforts to protect Fiji’s digital environment.</p>
 
             <div class="about-stats">
-              <div><strong>6</strong><span>Speakers</span></div>
-              <div><strong>20+</strong><span>Industry tracks</span></div>
-              <div><strong>10</strong><span>Sessions</span></div>
+              <div><strong>25</strong><span>Speakers</span></div>
+              <div><strong>15</strong><span>Sessions</span></div>
+              <div><strong>8</strong><span>Sponsors & Partners</span></div>
             </div>
 
             <!--a href="about.html" class="btn btn-navy">Read More About Us</a-->
