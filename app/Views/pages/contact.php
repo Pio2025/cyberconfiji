@@ -52,6 +52,7 @@
                 <option value="Speaking &amp; facilitating">Speaking &amp; facilitating</option>
                 <option value="Sponsorship">Sponsorship</option>
                 <option value="Press &amp; media">Press &amp; media</option>
+                <option value="Feedback">Feedback</option>
                 <option value="Something else">Something else</option>
               </select>
               <div class="invalid-feedback">Please choose a topic.</div>
@@ -112,7 +113,7 @@
   </section>
 
   <!-- FAQ -->
-  <section class="section-pad" style="background-color: var(--bg-light);">
+  <!--section class="section-pad" style="background-color: var(--bg-light);">
     <div class="container">
       <div class="row g-5">
         <div class="col-lg-4">
@@ -158,7 +159,7 @@
         </div>
       </div>
     </div>
-  </section>
+  </section-->
 
   <script>
     document.getElementById('contactForm').addEventListener('submit', async function (e) {

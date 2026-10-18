@@ -41,8 +41,24 @@ class Home extends BaseController
             return $this->response->setJSON(['status' => 'error', 'message' => 'Invalid request.']);
         }
 
-        $fullName     = trim((string) $this->request->getPost('full_name'));
-        $organisation = trim((string) $this->request->getPost('organisation'));
+        // Validate before touching the raw input any further
+        $rules = [
+            'full_name'    => 'required|min_length[2]|max_length[100]|regex_match[/^[\p{L}\p{M} .\'\-]+$/u]',
+            'organisation' => 'required|min_length[2]|max_length[150]|regex_match[/^[\p{L}\p{N}\p{M} .,\'\-&()]+$/u]',
+            'email'        => 'required|valid_email|max_length[150]',
+        ];
+
+        if (! $this->validate($rules)) {
+            return $this->response->setJSON([
+                'status'  => 'error',
+                'message' => 'Please check the form.',
+                'errors'  => $this->validator->getErrors(),
+            ]);
+        }
+
+        // Strip any tags/control characters before persisting or echoing anywhere
+        $fullName     = strip_tags(trim((string) $this->request->getPost('full_name')));
+        $organisation = strip_tags(trim((string) $this->request->getPost('organisation')));
         $email        = trim((string) $this->request->getPost('email'));
 
         $attendeeModel = new AttendeeModel();
@@ -84,7 +100,9 @@ class Home extends BaseController
 
         return $this->response->setJSON([
             'status'  => 'success',
-            'message' => "Thanks, {$fullNameOut} — your attendance is recorded. A confirmation email is on its way to {$emailOut}.",
+            // Rendered via textContent on the client, so plain (already stripped) text is used here —
+            // esc() is reserved for the HTML email body above.
+            'message' => "Thanks, {$fullName} — your attendance is recorded. A confirmation email is on its way to {$email}.",
         ]);
     }
 
@@ -95,12 +113,21 @@ class Home extends BaseController
             return $this->response->setJSON(['status' => 'error', 'message' => 'Invalid request.']);
         }
 
+        $allowedTopics = [
+            'Delegate passes',
+            'Speaking & facilitating',
+            'Sponsorship',
+            'Press & media',
+            'Feedback',
+            'Something else',
+        ];
+
         // Validate
         $rules = [
-            'name'    => 'required|min_length[2]|max_length[100]',
-            'email'   => 'required|valid_email',
-            'org'     => 'permit_empty|max_length[150]',
-            'topic'   => 'required',
+            'name'    => 'required|min_length[2]|max_length[100]|regex_match[/^[\p{L}\p{M} .\'\-]+$/u]',
+            'email'   => 'required|valid_email|max_length[150]',
+            'org'     => 'permit_empty|max_length[150]|regex_match[/^[\p{L}\p{N}\p{M} .,\'\-&()]*$/u]',
+            'topic'   => 'required|in_list[' . implode(',', $allowedTopics) . ']',
             'message' => 'required|min_length[5]|max_length[5000]',
         ];
 
@@ -112,12 +139,13 @@ class Home extends BaseController
             ]);
         }
 
-        // Collect + sanitise
-        $name    = esc($this->request->getPost('name'));
-        $email   = esc($this->request->getPost('email'));
-        $org     = esc($this->request->getPost('org') ?? '—');
-        $topic   = esc($this->request->getPost('topic'));
-        $message = esc($this->request->getPost('message'));
+        // Collect + strip any tags/control characters; final output escaping
+        // for the HTML email body happens once, in the email view itself.
+        $name    = strip_tags(trim((string) $this->request->getPost('name')));
+        $email   = trim((string) $this->request->getPost('email'));
+        $org     = strip_tags(trim((string) $this->request->getPost('org'))) ?: '—';
+        $topic   = $this->request->getPost('topic');
+        $message = strip_tags(trim((string) $this->request->getPost('message')));
 
         // Build HTML email
         $body = view('emails/contact', [
@@ -132,8 +160,9 @@ class Home extends BaseController
 
         $emailService = \Config\Services::email();
         $emailService->setTo('support@cyberconfiji.com');
+        $emailService->setCC('zaahid.shah@digitalfiji.gov.fj');
         $emailService->setReplyTo($email, $name);
-        $emailService->setSubject('New contact message: ');
+        $emailService->setSubject('New contact message: ' . $topic);
         $emailService->setMessage($body);
 
         if (! $emailService->send(false)) {
