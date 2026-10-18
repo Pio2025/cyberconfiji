@@ -14,6 +14,7 @@
       <div class="row justify-content-center">
         <div class="col-xl-9">
           <div class="section-kicker" style="color:#000;">28 OCTOBER 2026 &nbsp;&middot;&nbsp; SUVA, FIJI</div>
+          <div style="color:#000;">28 OCTOBER 2026 </div>
           <h1 class="hero-heading">National Cybersecurity and Resilience Convention 2026.</h1>
 
           <ul class="hero-pillars list-unstyled">
