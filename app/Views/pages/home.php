@@ -64,7 +64,7 @@
       <div class="row align-items-center g-5">
         <div class="col-lg-4">
           <div class="about-media">
-            <img src="https://images.unsplash.com/photo-1540575467063-178a50c2df87?q=80&w=800&auto=format&fit=crop" alt="Delegates in discussion at a previous Digital Fiji Forum session">
+            <img src="assets/img/event.jpg" alt="Delegates in discussion at a previous Digital Fiji Forum session">
             <div class="about-media-badge"><strong>NEW</strong> inaugural event.</div>
           </div>
         </div>
