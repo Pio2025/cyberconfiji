@@ -166,7 +166,7 @@
             <div class="speaker-overlay">
               <h5>Vikash Prasad</h5>
               <p class="designation">Chief Technology Officer,  Vodafone Fiji limited</p>
-              <p class="experience">Oversees Vodafone's technology strategy, cybersecurity, digital transformation, and innovation agenda. Drawing on extensive experience in telecommunications and digital innovation, leads initiatives spanning mobile networks, cloud services, cybersecurity, fintech platforms, and emerging technologies.</p>
+              <p class="experience">Oversees Vodafone's technology strategy, cybersecurity, and digital transformation, leading initiatives across mobile networks, cloud services, fintech platforms, and emerging technologies.</p>
               <span class="experience-tag">Cybersecurity &amp; Telecommunications </span>
             </div>
           </div>
@@ -217,7 +217,7 @@
             <div class="speaker-overlay">
               <h5>Vytenis Benetis</h5>
               <p class="designation">Consultant , i-Intelligence</p>
-              <p class="experience">consultant at i-intelligence (Switzerland) and an expert in open-source intelligence (OSINT), with a decade of experience as a military intelligence analyst. Work has spanned the Lithuanian Ministry of Defence, NATO, and the European Union at operational and strategic levels, developing solutions for managing large information flows and delivering actionable intelligence to senior decision makers. Also designs hands-on cybersecurity exercises, including Capture the Flag (CTF) challenges for ITU Regional and Global Cyber Drills, and a cybersecurity e-learning course with CTF exercises for high school and university students under an EU-funded non-formal education programme.</p>
+              <p class="experience">Consultant at i-intelligence and OSINT expert with a decade as a military intelligence analyst. Designs hands-on cybersecurity exercises, including CTF challenges for ITU Cyber Drills.</p>
               <span class="experience-tag">Cybersecurity &amp; E-Learning</span>
             </div>
           </div>
@@ -234,7 +234,7 @@
             <div class="speaker-overlay">
               <h5>Faraz Khan</h5>
               <p class="designation">Cybersecurity Lecturer, Victoria University</p>
-              <p class="experience">EU CyberNet expert, cybersecurity educator, and winner of the 2026 Australian Cyber Battle CTF, as well as a finalist for the 2026 Australian Information Security Association (AISA) Educator of the Year Award. As a cybersecurity lecturer at Victoria University and a 2025 International Vocational Education and Training Practitioner Fellow, Faraz creates practical, engaging learning experiences that build real-world cyber skills.</p>
+              <p class="experience">EU CyberNet expert and cybersecurity educator, winner of the 2026 Australian Cyber Battle CTF and AISA Educator of the Year finalist. Lectures at Victoria University, building real-world cyber skills.</p>
               <span class="experience-tag">Cybersecurity &amp; Lecturer</span>
             </div>
           </div>
@@ -268,7 +268,7 @@
             <div class="speaker-overlay">
               <h5>Seema Shandil</h5>
               <p class="designation">Chief Executive Officer, Consumer Council of Fiji</p>
-              <p class="experience">A passionate consumer advocate with over two decades of leadership experience across the public and private sectors. Serving as Chief Executive Officer of the Consumer Council of Fiji since 2019, championing consumer rights through strategic advocacy, policy reform, and institutional strengthening. Has led numerous donor-funded projects and secured funding to modernise the Council’s systems, making consumer complaint lodgement more accessible. </p>
+              <p class="experience">A consumer advocate with over two decades of leadership across public and private sectors. CEO of the Consumer Council of Fiji since 2019, championing rights through advocacy and policy reform.</p>
               <span class="experience-tag">Strategic Advocacy &amp; Policy &amp; Reform</span>
             </div>
           </div>
@@ -336,7 +336,7 @@
             <div class="speaker-overlay">
               <h5>David Eyre</h5>
               <p class="designation">Chairman, Telecom Fiji</p>
-              <p class="experience">25 years across telecommunications, broadcast television, energy access, and climate finance sectors, showcasing his versatile prowess in both private and public sectors. His career encompasses diverse roles, including spearheading Business Development in fixed-line telecommunications, supervising operations for prepaid voice and data products, and overseeing residential ISP operations with Telecom Fiji and its subsidiary TransTel.</p>
+              <p class="experience">25 years across telecommunications, broadcast television, energy access, and climate finance. Led fixed-line, prepaid voice and data, and residential ISP operations at Telecom Fiji.</p>
               <span class="experience-tag">Telecommunications &amp; Communications</span>
             </div>
           </div>
