@@ -250,12 +250,14 @@ a { text-decoration: none; }
 }
 
 .hero-content .section-kicker {
-  color: var(--navy-deep);
-  background: rgba(255,255,255,0.92);
+  position: relative;
+  z-index: 3;
+  color: #000;
+  background: #fff;
   padding: 0.35rem 0.9rem;
   border-radius: 999px;
 }
-.hero-content .section-kicker::before { background: var(--navy-deep); }
+.hero-content .section-kicker::before { background: #000; }
 
 .hero-heading {
   font-size: clamp(2.4rem, 5vw, 4.2rem);
