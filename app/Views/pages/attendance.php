@@ -1,7 +1,7 @@
 
 <section class="page-hero text-center">
     <div class="container">
-      <div class="section-kicker">Attendance</div>
+      <!--div class="section-kicker">Attendance</div-->
       <h1 class="text-center">Confirm you're coming.</h1>
       <p class="text-center">28 October 2026 &middot; Grand Pacific Hotel, Suva. Register your attendance below and we'll send a confirmation to your inbox.</p>
     </div>
