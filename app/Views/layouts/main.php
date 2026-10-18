@@ -80,8 +80,8 @@
         </div>
         <p>A national convening for government, industry, academia and civil society to strengthen Fiji's cybersecurity and build a resilient digital environment.</p>
         <div class="social-row">
-          <a href="https://www.facebook.com/p/Ministry-of-Policing-and-Communications-61577451631533/" aria-label="Facebook"><i class="bi bi-facebook"></i></a>
-          <a href="https://www.instagram.com/mopc_fiji/" aria-label="Instagram"><i class="bi bi-instagram"></i></a>
+          <a href="https://www.facebook.com/p/Ministry-of-Policing-and-Communications-61577451631533/" target="_blank" aria-label="Facebook"><i class="bi bi-facebook"></i></a>
+          <a href="https://www.instagram.com/mopc_fiji/" target="_blank" aria-label="Instagram"><i class="bi bi-instagram"></i></a>
           <!--a href="#" aria-label="LinkedIn"><i class="bi bi-linkedin"></i></a>
           <a href="#" aria-label="YouTube"><i class="bi bi-youtube"></i></a-->
         </div>
