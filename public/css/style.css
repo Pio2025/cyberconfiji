@@ -845,9 +845,10 @@ a:focus-visible, button:focus-visible {
   display: grid;
   grid-template-columns: auto auto;
   align-items: center;
+  justify-content: center;
   gap: 2rem;
   text-align: left;
-  width: fit-content;
+  width: 80%;
   max-width: 100%;
   margin: 0 auto;
 }
