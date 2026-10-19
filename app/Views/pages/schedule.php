@@ -7,7 +7,7 @@
         </div>
         <div class="page-hero-text">
           <!--div class="section-kicker">Program</div-->
-          <h1>Event Day, mapped out.</h1>
+          <h1>Event, mapped out.</h1>
           <p>28 October 2026 &middot; Grand Pacific Hotel, Suva. All sessions are in Fiji Time.</p>
         </div>
       </div>
