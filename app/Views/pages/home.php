@@ -359,6 +359,23 @@
           </div>
         </div>
 
+        <!-- Speaker 11 -->
+        <div class="col-md-6 col-lg-3">
+          <div class="speaker-card">
+            <img class="speaker-photo" src="assets/img/profile/16.jpg" alt="Portrait of Vinit Nand ">
+            <div class="speaker-default-label">
+              <h5>Vinit Nand </h5>
+              <span>Chief Executive Officer, Datec (Fiji) Pte Limited</span>
+            </div>
+            <div class="speaker-overlay">
+              <h5>Vinit Nand</h5>
+              <p class="designation">Chief Executive Officer, Datec (Fiji) Pte Limited</p>
+              <p class="experience">Chief Executive Officer of Datec (Fiji) Pte Limited and a Fellow Certified Practising Accountant (FCPA) with CPA Australia. Brings a strong background in finance, governance and ICT, having previously served as Datec’s Chief Financial Officer and Board Secretary before stepping into the CEO role.</p>
+              <span class="experience-tag">Finance &amp; Technology</span>
+            </div>
+          </div>
+        </div>
+
       </div>
     </div>
   </section>
