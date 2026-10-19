@@ -53,7 +53,7 @@
       </div>
     </div>
 
-    <div class="scroll-cue"><span>SCROLL</span><span class="line"></span></div>
+    <!--div class="scroll-cue"><span>SCROLL</span><span class="line"></span></div-->
   </section>
 
   <!-- =========================================================

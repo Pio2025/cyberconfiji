@@ -299,7 +299,7 @@ a { text-decoration: none; }
 }
 
 @media (max-width: 575.98px) {
-  .hero-logo-heading { height: 140px; }
+  .hero-logo-heading { height: 110px; margin-bottom: 0.75rem; }
 }
 
 .hero-sub {
@@ -1098,7 +1098,7 @@ a:focus-visible, button:focus-visible {
   /* Hero banner: breathing room so the scroll cue and stats
      row don't crowd the bottom edge of the banner background */
   .hero { padding-bottom: 5.5rem; }
-  .hero-content { padding-bottom: 1.5rem; }
+  .hero-content { padding-top: 0.5rem; padding-bottom: 1.5rem; }
   .hero-meta { margin-top: 2.25rem; margin-bottom: 1.5rem; }
 
   /* About section */
@@ -1132,8 +1132,10 @@ a:focus-visible, button:focus-visible {
 
 @media (max-width: 575.98px) {
   .page-hero { padding-top: 7.5rem; }
-  .hero-pillars { gap: 0.65rem; margin-bottom: 1.75rem; }
-  .hero-pillar { padding: 0.8rem 0.9rem; }
+  .hero-pillars { gap: 0.45rem; margin-bottom: 1.25rem; }
+  .hero-pillar { padding: 0.55rem 0.75rem; }
+  .hero-pillar-text { font-size: 0.78rem; line-height: 1.35; }
+  .hero .btn-accent { padding: 0.65rem 1.6rem; }
 
   .sponsor-box { height: 88px; }
   .sponsor-box--platinum { height: 110px; }
