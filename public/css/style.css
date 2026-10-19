@@ -990,6 +990,27 @@ a:focus-visible, button:focus-visible {
 .track-roundtable { background: #f3ecfb; color: #6b45a5; }
 .track-break { background: #f1f4f8; color: #6d84a4; }
 
+.schedule-row--side {
+  background: #eaf5fd;
+  margin: 0 -1rem;
+  padding: 1.25rem 1rem;
+  border-radius: 8px;
+  border-bottom: 1px solid #d7ebf7;
+}
+.schedule-badge-side {
+  display: inline-block;
+  font-size: 0.65rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 700;
+  padding: 0.2rem 0.55rem;
+  border-radius: 4px;
+  margin-left: 0.6rem;
+  vertical-align: middle;
+  background: var(--blue-accent);
+  color: #fff;
+}
+
 .legend { display: flex; flex-wrap: wrap; gap: 1rem; margin-top: 1.5rem; }
 .legend span { font-size: 0.82rem; color: var(--text-muted); display: inline-flex; align-items: center; gap: 0.4rem; }
 .legend i { width: 12px; height: 12px; border-radius: 3px; display: inline-block; }
@@ -1110,6 +1131,7 @@ a:focus-visible, button:focus-visible {
 
   /* Program / Schedule section */
   .schedule-row { flex-direction: column; align-items: flex-start; padding: 1rem 0; gap: 0.35rem; }
+  .schedule-row--side { padding: 1rem 0.75rem; }
   .schedule-time { margin-bottom: 0.15rem; }
   #schedule .mt-5 { margin-top: 2rem; text-align: center; }
 

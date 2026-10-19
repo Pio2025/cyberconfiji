@@ -134,10 +134,10 @@
             </div>
             </div>
 
-            <div class="schedule-row">
+            <div class="schedule-row schedule-row--side">
             <div class="schedule-time">10:50 &ndash; 11:10</div>
             <div class="schedule-detail">
-                <h6>Track B – Youth &amp; Careers in Cyber: Pathways into the Digital Workforce</h6>
+                <h6>Track B – Youth &amp; Careers in Cyber: Pathways into the Digital Workforce<span class="schedule-badge-side">Side Session</span></h6>
                 <span>An engaging session empowering young people to explore career opportunities in cybersecurity and the broader digital sector, discover emerging pathways, and gain insights into the skills and opportunities shaping the future of work. &middot; Moderator: Mr Prashil Kumar, CEO, Cyber Acads &middot; Dr. Jashvir Bir, Lecturer, University of South Pacific Fiji &middot; Mr Vikash Prasad, Chief Technical Officer, Vodafone Fiji &middot; Mr Vinit Nand, CEO, Datec Fiji &middot; Ms Pritika Seth, Women in Tech Fiji, CyberHer Program Director &middot; Mr Faraz Khan, EU Cybernet Representative &middot; Ballroom B, GPH</span>
             </div>
             </div>
@@ -151,10 +151,10 @@
             </div>
             </div>
 
-            <div class="schedule-row">
+            <div class="schedule-row schedule-row--side">
             <div class="schedule-time">11:10 &ndash; 11:30</div>
             <div class="schedule-detail">
-                <h6>Youth Mini Hackathon Challenge (Part 1)</h6>
+                <h6>Youth Mini Hackathon Challenge (Part 1)<span class="schedule-badge-side">Side Session</span></h6>
                 <span>A fast-paced cybersecurity challenge for children — design a solution to help people stay safe online, prototype it, and present to the group. &middot; EU Cybernet &middot; Ballroom B</span>
             </div>
             </div>
@@ -186,10 +186,10 @@
             </div>
             </div>
 
-            <div class="schedule-row">
+            <div class="schedule-row schedule-row--side">
             <div class="schedule-time">13:00 &ndash; 15:00</div>
             <div class="schedule-detail">
-                <h6>Youth Mini Hackathon Challenge (Continued)</h6>
+                <h6>Youth Mini Hackathon Challenge (Continued)<span class="schedule-badge-side">Side Session</span></h6>
                 <span>Continuation of the hands-on cybersecurity challenge for children. &middot; EU Cybernet &middot; Ballroom B</span>
             </div>
             </div>
