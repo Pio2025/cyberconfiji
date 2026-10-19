@@ -112,10 +112,10 @@
     <div class="container">
       <iframe
         class="map-embed"
-        src="https://www.google.com/maps?q=Suva%20Fiji&output=embed"
+        src="https://www.google.com/maps?q=Grand%20Pacific%20Hotel%2C%20Victoria%20Parade%2C%20Suva%2C%20Fiji&output=embed"
         loading="lazy"
         referrerpolicy="no-referrer-when-downgrade"
-        title="Map showing Suva, Fiji"></iframe>
+        title="Map showing the Grand Pacific Hotel, Suva, Fiji"></iframe>
     </div>
   </section>
 
