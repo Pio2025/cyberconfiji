@@ -180,7 +180,7 @@
             </div>
 
             <div class="schedule-row">
-            <div class="schedule-time">13:00 &ndash; 13:20</div>
+            <div class="schedule-time">13:00 &ndash; 15:00</div>
             <div class="schedule-detail">
                 <h6>Youth Mini Hackathon Challenge (Continued)</h6>
                 <span>Continuation of the hands-on cybersecurity challenge for children. &middot; EU Cybernet &middot; Ballroom B</span>
