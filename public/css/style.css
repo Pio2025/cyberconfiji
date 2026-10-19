@@ -333,6 +333,7 @@ a { text-decoration: none; }
   flex-wrap: wrap;
   gap: 1.75rem;
   margin-top: 3rem;
+  margin-bottom: 2.5rem;
   padding-top: 1.75rem;
   border-top: 1px solid rgba(255,255,255,0.15);
   max-width: 640px;
@@ -1012,7 +1013,7 @@ a:focus-visible, button:focus-visible {
      row don't crowd the bottom edge of the banner background */
   .hero { padding-bottom: 5.5rem; }
   .hero-content { padding-bottom: 1.5rem; }
-  .hero-meta { margin-top: 2.25rem; margin-bottom: 0.5rem; }
+  .hero-meta { margin-top: 2.25rem; margin-bottom: 1.5rem; }
 
   /* About section */
   .about-media { margin-bottom: 1.75rem; }
