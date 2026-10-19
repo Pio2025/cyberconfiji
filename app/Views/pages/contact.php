@@ -2,7 +2,7 @@
     <div class="container">
       <!--div class="section-kicker">Contact Us</div-->
       <h1 class="text-center">Talk to the team.</h1>
-      <!--p>Questions about delegate passes, speaking, sponsorship or press &mdash; send a note and we'll route it to the right person.</p-->
+      <p>Have a question or feedback about the event? Send us a message using the form below. We read every message and will get back to you as soon as possible.</p>
     </div>
   </section>
 
