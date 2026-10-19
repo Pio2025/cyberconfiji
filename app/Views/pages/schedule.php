@@ -232,6 +232,16 @@
             </div>
             </div>
 
+            
+            <!-- 15:15 – 15:45 -->
+            <div class="schedule-row">
+            <div class="schedule-time">15:15 &ndash; 15:45</div>
+            <div class="schedule-detail">
+                <h6>Invite Only: TFL - Platinum Sponsor Technical Side Session </h6>
+                <span> &middot; Ballroom A, GPH</span>
+            </div>
+            </div>
+
             <!-- 15:45 – 16:00 -->
             <div class="schedule-row">
             <div class="schedule-time">15:45 &ndash; 16:00</div>
