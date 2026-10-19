@@ -1,7 +1,7 @@
   <!-- =========================================================
        Hero — video banner with dark overlay
        ========================================================= -->
-  <section class="hero hero--centered hero--light" id="home">
+  <section class="hero hero--centered" id="home">
     <div class="hero-slides" aria-hidden="true">
       <div class="hero-slide is-active" style="background-image:url('assets/img/hero/1-suva-harbour.jpg')"></div>
       <div class="hero-slide" style="background-image:url('assets/img/hero/2-parliament-house.jpg')"></div>

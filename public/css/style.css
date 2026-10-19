@@ -187,6 +187,11 @@ a { text-decoration: none; }
   align-items: center;
   overflow: hidden;
   background: var(--navy-deep);
+  padding-top: 12rem;
+}
+
+@media (max-width: 575.98px) {
+  .hero { padding-top: 6rem; }
 }
 
 /* Background image slideshow — crossfading layers */
