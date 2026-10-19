@@ -1,4 +1,4 @@
-  <section class="page-hero page-hero--light text-center">
+  <section class="page-hero text-center">
     <div class="container">
       <!--div class="section-kicker">Contact Us</div-->
       <h1 class="text-center">Talk to the team.</h1>
