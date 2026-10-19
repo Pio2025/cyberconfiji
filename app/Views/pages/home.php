@@ -379,7 +379,7 @@
         <!-- Speaker 11 -->
         <div class="col-6 col-md-6 col-lg-3">
           <div class="speaker-card">
-            <img class="speaker-photo" src="assets/img/profile/16.jpg" alt="Portrait of Makereta Cinavilakeba">
+            <img class="speaker-photo" src="assets/img/profile/17.jpg" alt="Portrait of Makereta Cinavilakeba">
             <div class="speaker-default-label">
               <h5>Makereta Cinavilakeba</h5>
               <span></span>
