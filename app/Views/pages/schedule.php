@@ -253,14 +253,14 @@
         </div>
         </div>
 
-      <div class="legend">
+      <!--div class="legend">
         <span><i class="track-plenary" style="background:#1f6fa5;"></i>Plenary &mdash; open to all delegates</span>
         <span><i class="track-workshop" style="background:#2f8a54;"></i>Workshop &mdash; hands-on, capped attendance</span>
         <span><i class="track-roundtable" style="background:#6b45a5;"></i>Roundtable &mdash; invite only, Chatham House rule</span>
         <span><i class="track-break" style="background:#6d84a4;"></i>Break / social</span>
       </div>
 
-      <p class="mt-4 text-muted" style="font-size: 0.88rem;">Program subject to change. Room assignments, facilitators and pre-reads are published in the delegate handbook one week before the forum.</p>
+      <p class="mt-4 text-muted" style="font-size: 0.88rem;">Program subject to change. Room assignments, facilitators and pre-reads are published in the delegate handbook one week before the forum.</p-->
 
     </div>
   </section>
