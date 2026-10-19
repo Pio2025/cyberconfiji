@@ -106,30 +106,8 @@ a { text-decoration: none; }
   right: 0;
   z-index: 1030;
   padding: 1.1rem 0;
-  background: transparent;
-  transition: background-color 0.35s ease, padding 0.35s ease, box-shadow 0.35s ease;
-}
-
-.main-navbar::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  height: 340px;
-  background: linear-gradient(180deg,
-    rgba(255,255,255,0.97) 0%,
-    rgba(255,255,255,0.95) 18%,
-    rgba(255,255,255,0.86) 34%,
-    rgba(255,255,255,0.7) 48%,
-    rgba(255,255,255,0.5) 61%,
-    rgba(255,255,255,0.31) 73%,
-    rgba(255,255,255,0.16) 84%,
-    rgba(255,255,255,0.05) 93%,
-    rgba(255,255,255,0) 100%);
-  z-index: 0;
-  pointer-events: none;
-  transition: opacity 0.5s ease;
+  background: var(--white);
+  transition: padding 0.35s ease, box-shadow 0.35s ease;
 }
 
 .main-navbar .container {
@@ -138,13 +116,8 @@ a { text-decoration: none; }
 }
 
 .main-navbar.is-scrolled {
-  background-color: var(--white);
   padding: 0.65rem 0;
   box-shadow: 0 6px 24px rgba(6, 15, 31, 0.15);
-}
-
-.main-navbar.is-scrolled::before {
-  opacity: 0;
 }
 
 .main-navbar .nav-link {
