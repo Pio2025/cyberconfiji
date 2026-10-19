@@ -1,7 +1,7 @@
   <!-- =========================================================
        Hero — video banner with dark overlay
        ========================================================= -->
-  <section class="hero hero--centered" id="home">
+  <section class="hero hero--centered hero--light" id="home">
     <div class="hero-slides" aria-hidden="true">
       <div class="hero-slide is-active" style="background-image:url('assets/img/hero/1-suva-harbour.jpg')"></div>
       <div class="hero-slide" style="background-image:url('assets/img/hero/2-parliament-house.jpg')"></div>
@@ -14,7 +14,7 @@
       <div class="row justify-content-center">
         <div class="col-xl-9">
           <!--div class="section-kicker1">28 OCTOBER 2026 &nbsp;&middot;&nbsp; SUVA, FIJI</div-->
-          <h1 class="hero-heading">National Cybersecurity and Resilience Convention 2026.</h1>
+          <img src="assets/img/logo.png" alt="National Cybersecurity and Resilience Convention 2026" class="hero-logo-heading">
 
           <ul class="hero-pillars list-unstyled">
             <li class="hero-pillar">
