@@ -426,6 +426,42 @@ a { text-decoration: none; }
 }
 
 /* =========================================================
+   Hero — white banner variant. Keeps the same crossfading photo
+   slideshow, just lightens the overlay/colors instead of the dark
+   navy treatment above. Toggle by adding/removing the .hero--light
+   class on the <section class="hero ..."> element in home.php —
+   the original dark rules above are untouched, so removing the
+   class reverts to the dark banner.
+   ========================================================= */
+.hero--light { background: var(--white); }
+.hero--light::before {
+  background:
+    radial-gradient(1200px 600px at 15% 10%, rgba(47,164,231,0.12), transparent 60%),
+    radial-gradient(900px 500px at 90% 90%, rgba(143,211,255,0.3), transparent 55%),
+    linear-gradient(160deg, var(--white), var(--bg-light));
+}
+.hero--light .hero-overlay {
+  background: linear-gradient(180deg, rgba(255,255,255,0.88) 0%, rgba(244,248,252,0.82) 55%, rgba(255,255,255,0.94) 100%);
+}
+.hero--light .hero-heading { color: var(--text-dark); }
+.hero--light .hero-sub { color: var(--text-muted); }
+.hero--light .hero-pillar {
+  background: rgba(47,164,231,0.07);
+  border: 1px solid rgba(18,48,90,0.14);
+  backdrop-filter: none;
+}
+.hero--light .hero-pillar-bullet {
+  background: var(--blue-accent);
+  box-shadow: 0 0 0 4px rgba(47,164,231,0.18);
+}
+.hero--light .hero-pillar-text { color: var(--text-muted); }
+.hero--light .hero-meta { border-top: 1px solid rgba(18,48,90,0.14); }
+.hero--light .hero-meta div { color: var(--text-muted); }
+.hero--light .hero-meta strong { color: var(--navy-deep); }
+.hero--light .scroll-cue { color: var(--text-muted); }
+.hero--light .scroll-cue .line { background: linear-gradient(var(--blue-accent), transparent); }
+
+/* =========================================================
    About section
    ========================================================= */
 .about-media {
