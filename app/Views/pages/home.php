@@ -105,7 +105,7 @@
       <div class="row g-4">
 
         <!-- Speaker 12 -->
-        <div class="col-md-6 col-lg-3">
+        <div class="col-6 col-md-6 col-lg-3">
           <div class="speaker-card">
             <img class="speaker-photo" src="assets/img/profile/12.jpg" alt="Portrait of Hon. Ioane Naivalurua">
             <div class="speaker-default-label">
@@ -122,7 +122,7 @@
         </div>
 
         <!-- Speaker 13 -->
-        <div class="col-md-6 col-lg-3">
+        <div class="col-6 col-md-6 col-lg-3">
           <div class="speaker-card">
             <img class="speaker-photo" src="assets/img/profile/13.jpg" alt="Portrait of Hon. Manoa Kamikamica">
             <div class="speaker-default-label">
@@ -139,7 +139,7 @@
         </div>
 
         <!-- Speaker 4 -->
-        <div class="col-md-6 col-lg-3">
+        <div class="col-6 col-md-6 col-lg-3">
           <div class="speaker-card">
             <img class="speaker-photo" src="assets/img/profile/4.jpg" alt="Portrait of Peter Roberts">
             <div class="speaker-default-label">
@@ -156,7 +156,7 @@
         </div>
 
         <!-- Speaker 1 -->
-        <div class="col-md-6 col-lg-3">
+        <div class="col-6 col-md-6 col-lg-3">
           <div class="speaker-card">
             <img class="speaker-photo" src="assets/img/profile/1.jpg" alt="Portrait of Vikash Prasad">
             <div class="speaker-default-label">
@@ -173,7 +173,7 @@
         </div>
 
         <!-- Speaker 2 -->
-        <div class="col-md-6 col-lg-3">
+        <div class="col-6 col-md-6 col-lg-3">
           <div class="speaker-card">
             <img class="speaker-photo" src="assets/img/profile/2.jpg" alt="Portrait of Prashil Kumar">
             <div class="speaker-default-label">
@@ -190,7 +190,7 @@
         </div>
 
         <!-- Speaker 3 -->
-        <div class="col-md-6 col-lg-3">
+        <div class="col-6 col-md-6 col-lg-3">
           <div class="speaker-card">
             <img class="speaker-photo" src="assets/img/profile/3.jpg" alt="Portrait of Mele Fifita">
             <div class="speaker-default-label">
@@ -207,7 +207,7 @@
         </div>
 
         <!-- Speaker 5 -->
-        <div class="col-md-6 col-lg-3">
+        <div class="col-6 col-md-6 col-lg-3">
           <div class="speaker-card">
             <img class="speaker-photo" src="assets/img/profile/5.jpg" alt="Portrait of Vytenis Benetis">
             <div class="speaker-default-label">
@@ -224,7 +224,7 @@
         </div>
 
         <!-- Speaker 6 -->
-        <div class="col-md-6 col-lg-3">
+        <div class="col-6 col-md-6 col-lg-3">
           <div class="speaker-card">
             <img class="speaker-photo" src="assets/img/profile/6.jpg" alt="Portrait of Faraz Khan">
             <div class="speaker-default-label">
@@ -241,7 +241,7 @@
         </div>
 
         <!-- Speaker 7 -->
-        <div class="col-md-6 col-lg-3">
+        <div class="col-6 col-md-6 col-lg-3">
           <div class="speaker-card">
             <img class="speaker-photo" src="assets/img/profile/7.jpg" alt="Portrait of Pritika Seth">
             <div class="speaker-default-label">
@@ -258,7 +258,7 @@
         </div>
 
         <!-- Speaker 8 -->
-        <div class="col-md-6 col-lg-3">
+        <div class="col-6 col-md-6 col-lg-3">
           <div class="speaker-card">
             <img class="speaker-photo" src="assets/img/profile/8.jpg" alt="Portrait of Seema Shandil">
             <div class="speaker-default-label">
@@ -275,7 +275,7 @@
         </div>
 
         <!-- Speaker 9 -->
-        <div class="col-md-6 col-lg-3">
+        <div class="col-6 col-md-6 col-lg-3">
           <div class="speaker-card">
             <img class="speaker-photo" src="assets/img/profile/9.jpg" alt="Portrait of Nereo Penalver-Garcia">
             <div class="speaker-default-label">
@@ -292,7 +292,7 @@
         </div>
 
         <!-- Speaker 10 -->
-        <div class="col-md-6 col-lg-3">
+        <div class="col-6 col-md-6 col-lg-3">
           <div class="speaker-card">
             <img class="speaker-photo" src="assets/img/profile/10.jpg" alt="Portrait of Hannah Bradshaw">
             <div class="speaker-default-label">
@@ -309,7 +309,7 @@
         </div>
 
         <!-- Speaker 11 -->
-        <div class="col-md-6 col-lg-3">
+        <div class="col-6 col-md-6 col-lg-3">
           <div class="speaker-card">
             <img class="speaker-photo" src="assets/img/profile/11.jpg" alt="Portrait of Lee Sea Lin">
             <div class="speaker-default-label">
@@ -326,7 +326,7 @@
         </div>
 
         <!-- Speaker 11 -->
-        <div class="col-md-6 col-lg-3">
+        <div class="col-6 col-md-6 col-lg-3">
           <div class="speaker-card">
             <img class="speaker-photo" src="assets/img/profile/14.jpg" alt="Portrait of David Eyre">
             <div class="speaker-default-label">
@@ -343,7 +343,7 @@
         </div>
 
         <!-- Speaker 11 -->
-        <div class="col-md-6 col-lg-3">
+        <div class="col-6 col-md-6 col-lg-3">
           <div class="speaker-card">
             <img class="speaker-photo" src="assets/img/profile/15.jpg" alt="Portrait of Tori Lamb">
             <div class="speaker-default-label">
@@ -360,7 +360,7 @@
         </div>
 
         <!-- Speaker 11 -->
-        <div class="col-md-6 col-lg-3">
+        <div class="col-6 col-md-6 col-lg-3">
           <div class="speaker-card">
             <img class="speaker-photo" src="assets/img/profile/16.jpg" alt="Portrait of Vinit Nand ">
             <div class="speaker-default-label">

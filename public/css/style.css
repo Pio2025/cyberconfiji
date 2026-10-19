@@ -33,6 +33,16 @@ body {
   color: var(--text-dark);
   background-color: var(--white);
   -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+
+/* Safety net: no plain <img>/<svg> can force horizontal overflow on
+   narrow screens. Elements that need a fixed/explicit size (logo,
+   speaker photos, etc.) all do so via a class, which overrides this
+   lower-specificity element rule. */
+img, svg, video {
+  max-width: 100%;
+  height: auto;
 }
 
 h1, h2, h3, h4, h5, .display-font {
@@ -93,6 +103,16 @@ a { text-decoration: none; }
 }
 .main-navbar.is-scrolled .brand-logo { height: 42px; }
 .brand-logo--footer { height: 58px; }
+
+/* Tablet/small-laptop range: the 150px desktop logo makes the fixed
+   navbar disproportionately tall once it no longer sits beside a
+   full desktop nav (navbar-expand-lg collapses below 992px). This
+   must come before the 575.98px rule below so phones still win the
+   cascade (equal specificity resolves by source order, not by which
+   query is narrower). */
+@media (max-width: 991.98px) {
+  .brand-logo { height: 90px; }
+}
 
 @media (max-width: 575.98px) {
   .brand-logo { height: 40px; }
@@ -166,7 +186,7 @@ a { text-decoration: none; }
 .navbar-toggler {
   border: none;
   color: var(--white);
-  padding: 0.25rem 0.5rem;
+  padding: 0.45rem 0.6rem;
 }
 .navbar-toggler:focus { box-shadow: none; }
 
@@ -181,6 +201,8 @@ a { text-decoration: none; }
   .main-navbar .navbar-collapse .nav-link {
     color: var(--white);
     opacity: 0.88;
+    display: block;
+    padding: 0.7rem 0.25rem !important;
   }
   .main-navbar .navbar-collapse .nav-link:hover,
   .main-navbar .navbar-collapse .nav-link.active {
@@ -195,6 +217,7 @@ a { text-decoration: none; }
 .hero {
   position: relative;
   min-height: 100vh;
+  min-height: 100dvh;
   display: flex;
   align-items: center;
   overflow: hidden;
@@ -613,6 +636,9 @@ a { text-decoration: none; }
 /* =========================================================
    Program schedule teaser
    ========================================================= */
+.schedule-tabs {
+  flex-wrap: wrap;
+}
 .schedule-tabs .nav-link {
   color: var(--text-muted);
   font-weight: 600;
@@ -922,7 +948,7 @@ a:focus-visible, button:focus-visible {
   border: 1px solid #d7e1ec;
   border-radius: 6px;
   padding: 0.75rem 0.9rem;
-  font-size: 0.95rem;
+  font-size: 1rem; /* iOS Safari auto-zooms focused inputs under 16px */
 }
 .contact-form .form-control:focus {
   border-color: var(--blue-accent);
@@ -999,6 +1025,13 @@ a:focus-visible, button:focus-visible {
 }
 .cta-strip h2 { color: var(--white); margin-bottom: 0.75rem; }
 .cta-strip p { color: var(--text-on-dark-muted); max-width: 520px; margin: 0 auto 1.75rem; }
+.qr-code {
+  max-width: 250px;
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
 
 @media (max-width: 575.98px) {
   .cta-strip { padding: 2rem 1.25rem; }

@@ -281,7 +281,7 @@
         <h2>Planning your event day?</h2>
         <p>The delegate handbook, venue map and travel guide are all in one place.</p>
         <!--a href="#" class="btn btn-accent">Download Program</a-->
-        <img src="assets/img/qr/rsvp.png" height="250px" class="" >
+        <img src="assets/img/qr/rsvp.png" alt="QR code to RSVP" class="qr-code">
       </div>
     </div>
   </section>
