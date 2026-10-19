@@ -1,9 +1,16 @@
 
-<section class="page-hero page-hero--light text-center">
+<section class="page-hero page-hero--light">
     <div class="container">
-      <!--div class="section-kicker">Attendance</div-->
-      <h1 class="text-center">Confirm you're coming.</h1>
-      <p class="text-center">28 October 2026 &middot; Grand Pacific Hotel, Suva. Register your attendance below and we'll send a confirmation to your inbox.</p>
+      <div class="page-hero-grid">
+        <div class="page-hero-logo">
+          <img src="assets/img/logo.png" alt="National Cybersecurity and Resilience Convention 2026" class="page-hero-logo-img">
+        </div>
+        <div class="page-hero-text">
+          <!--div class="section-kicker">Attendance</div-->
+          <h1>Confirm you're coming.</h1>
+          <p>28 October 2026 &middot; Grand Pacific Hotel, Suva. Register your attendance below and we'll send a confirmation to your inbox.</p>
+        </div>
+      </div>
     </div>
   </section>
 

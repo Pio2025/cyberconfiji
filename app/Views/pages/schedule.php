@@ -1,9 +1,16 @@
 
-<section class="page-hero page-hero--light text-center">
+<section class="page-hero page-hero--light">
     <div class="container">
-      <!--div class="section-kicker">Program</div-->
-      <h1 class="text-center">Event Day, mapped out.</h1>
-      <p class="text-center">28 October 2026 &middot; Grand Pacific Hotel, Suva. All sessions are in Fiji Time.</p>
+      <div class="page-hero-grid">
+        <div class="page-hero-logo">
+          <img src="assets/img/logo.png" alt="National Cybersecurity and Resilience Convention 2026" class="page-hero-logo-img">
+        </div>
+        <div class="page-hero-text">
+          <!--div class="section-kicker">Program</div-->
+          <h1>Event Day, mapped out.</h1>
+          <p>28 October 2026 &middot; Grand Pacific Hotel, Suva. All sessions are in Fiji Time.</p>
+        </div>
+      </div>
     </div>
   </section>
 

@@ -1,8 +1,15 @@
-  <section class="page-hero page-hero--light text-center">
+  <section class="page-hero page-hero--light">
     <div class="container">
-      <!--div class="section-kicker">Contact Us</div-->
-      <h1 class="text-center">Talk to the team.</h1>
-      <p>Have a question or feedback about the event? Send us a message using the form below. We read every message and will get back to you as soon as possible.</p>
+      <div class="page-hero-grid">
+        <div class="page-hero-logo">
+          <img src="assets/img/logo.png" alt="National Cybersecurity and Resilience Convention 2026" class="page-hero-logo-img">
+        </div>
+        <div class="page-hero-text">
+          <!--div class="section-kicker">Contact Us</div-->
+          <h1>Talk to the team.</h1>
+          <p>Have a question or feedback about the event? Send us a message using the form below. We read every message and will get back to you as soon as possible.</p>
+        </div>
+      </div>
     </div>
   </section>
 
