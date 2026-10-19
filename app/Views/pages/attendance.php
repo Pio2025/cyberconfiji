@@ -1,5 +1,5 @@
 
-<section class="page-hero text-center">
+<section class="page-hero page-hero--light text-center">
     <div class="container">
       <!--div class="section-kicker">Attendance</div-->
       <h1 class="text-center">Confirm you're coming.</h1>
