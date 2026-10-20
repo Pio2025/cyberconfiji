@@ -382,11 +382,11 @@
             <img class="speaker-photo" src="assets/img/profile/17.jpg" alt="Portrait of Makereta Cinavilakeba">
             <div class="speaker-default-label">
               <h5>Makereta Cinavilakeba</h5>
-              <span></span>
+              <span>ICT Infrastructure Team Leader, The Pacific Community</span>
             </div>
             <div class="speaker-overlay">
               <h5>Makereta Cinavilakeba</h5>
-              <p class="designation"></p>
+              <p class="designation">ICT Infrastructure Team Leader, The Pacific Community</p>
               <p class="experience"></p>
               <span class="experience-tag">Finance &amp; Technology</span>
             </div>
@@ -400,11 +400,11 @@
             <img class="speaker-photo" src="assets/img/profile/18.jpg" alt="Portrait of Catherine Subhaydas">
             <div class="speaker-default-label">
               <h5>Catherine Subhaydas</h5>
-              <span></span>
+              <span>Fiji Cert Director, Cybersecurity Analyst | Department of Communications</span>
             </div>
             <div class="speaker-overlay">
               <h5>Catherine Subhaydas</h5>
-              <p class="designation"></p>
+              <p class="designation">Fiji Cert Director, Cybersecurity Analyst | Department of Communications</p>
               <p class="experience"></p>
               <span class="experience-tag">Cybersecurity &amp; Cert</span>
             </div>
