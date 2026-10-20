@@ -400,11 +400,11 @@
             <img class="speaker-photo" src="assets/img/profile/18.jpg" alt="Portrait of Catherine Subhaydas">
             <div class="speaker-default-label">
               <h5>Catherine Subhaydas</h5>
-              <span>Fiji Cert Director, Cybersecurity Analyst | Department of Communications</span>
+              <span>Fiji Cert Director, Department of Communications</span>
             </div>
             <div class="speaker-overlay">
               <h5>Catherine Subhaydas</h5>
-              <p class="designation">Fiji Cert Director, Cybersecurity Analyst | Department of Communications</p>
+              <p class="designation">Fiji Cert Director, Department of Communications</p>
               <p class="experience"></p>
               <span class="experience-tag">Cybersecurity &amp; Cert</span>
             </div>
