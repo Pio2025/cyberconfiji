@@ -393,6 +393,24 @@
           </div>
         </div>
 
+        
+        <!-- Speaker 11 -->
+        <div class="col-6 col-md-6 col-lg-3">
+          <div class="speaker-card">
+            <img class="speaker-photo" src="assets/img/profile/17.jpg" alt="Portrait of Catherine Subhaydas">
+            <div class="speaker-default-label">
+              <h5>Catherine Subhaydas</h5>
+              <span></span>
+            </div>
+            <div class="speaker-overlay">
+              <h5>Catherine Subhaydas</h5>
+              <p class="designation"></p>
+              <p class="experience"></p>
+              <span class="experience-tag">Cybersecurity &amp; Cert</span>
+            </div>
+          </div>
+        </div>
+
       </div>
     </div>
   </section>

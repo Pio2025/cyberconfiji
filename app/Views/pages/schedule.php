@@ -138,7 +138,7 @@
             <div class="schedule-time">10:50 &ndash; 11:10</div>
             <div class="schedule-detail">
                 <h6>Track B – Youth &amp; Careers in Cyber: Pathways into the Digital Workforce<span class="schedule-badge-side">Side Session</span></h6>
-                <span>An engaging session empowering young people to explore career opportunities in cybersecurity and the broader digital sector, discover emerging pathways, and gain insights into the skills and opportunities shaping the future of work. &middot; Moderator: Mr Prashil Kumar, CEO, Cyber Acads &middot; Dr. Jashvir Bir, Lecturer, University of South Pacific Fiji &middot; Mr Vikash Prasad, Chief Technical Officer, Vodafone Fiji &middot; Mr Vinit Nand, CEO, Datec Fiji &middot; Ms Pritika Seth, Women in Tech Fiji, CyberHer Program Director &middot; Mr Faraz Khan, EU Cybernet Representative &middot; Ballroom B, GPH</span>
+                <span>An engaging session empowering young people to explore career opportunities in cybersecurity and the broader digital sector, discover emerging pathways, and gain insights into the skills and opportunities shaping the future of work. &middot; Moderator: Mr Prashil Kumar, CEO, Cyber Acads &middot; Dr. Jashvir Bir, Lecturer, University of South Pacific Fiji &middot; Mr Vikash Prasad, Chief Technology Officer, Vodafone Fiji &middot; Mr Vinit Nand, CEO, Datec Fiji &middot; Ms Pritika Seth, Women in Tech Fiji, CyberHer Program Director &middot; Mr Faraz Khan, EU Cybernet Representative &middot; Ballroom B, GPH</span>
             </div>
             </div>
 
