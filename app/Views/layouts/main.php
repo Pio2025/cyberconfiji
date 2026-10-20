@@ -27,7 +27,7 @@
      ========================================================= -->
 <nav class="navbar navbar-expand-lg main-navbar" id="mainNavbar">
   <div class="container">
-    <a class="navbar-brand navbar-brand-wrap" href="index.html">
+    <a class="navbar-brand navbar-brand-wrap" href="<?php echo base_url(); ?>">
       <img src="assets/img/logonew.png" alt="Digital Fiji Forum" class="brand-logo">
     </a>
 
