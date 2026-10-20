@@ -76,7 +76,7 @@
             <div class="schedule-time">09:20 &ndash; 09:40</div>
             <div class="schedule-detail">
                 <h6>Fireside Chat – Cybersecurity in the Region</h6>
-                <span>A high-level conversation bringing together leaders from Fiji, Australia and Papua New Guinea to discuss the evolving cybersecurity landscape in the Pacific, regional cooperation, cyber resilience, and building stronger national and regional capacity to protect our digital future. &middot; Moderator: Mr Vijay Naraya, Journalist &middot; Hon. Ioane Naivalurua, Fiji Minister for Policing and Communications &middot; Hon. Peter Roberts, Australian High Commissioner for Fiji &middot; Hon. Robert Naguri, Papua New Guinea Minister for Information and Communications Technology &middot; Hon. Manoa Kamikamica, Fiji Deputy Prime Minister &middot; Ballroom A, GPH</span>
+                <span>A high-level conversation bringing together leaders from Fiji, Australia and Papua New Guinea to discuss the evolving cybersecurity landscape in the Pacific, regional cooperation, cyber resilience, and building stronger national and regional capacity to protect our digital future. &middot; Moderator: Mr Vijay Naraya, Journalist &middot; Hon. Ioane Naivalurua, Fiji Minister for Policing and Communications &middot; Hon. Peter Roberts, Australian High Commissioner for Fiji &middot; Hon. Robert Naguri, Papua New Guinea Minister for Information and Communications Technology &middot; Ballroom A, GPH</span>
             </div>
             </div>
 
