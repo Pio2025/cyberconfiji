@@ -251,7 +251,7 @@
 
             <!-- 15:45 – 16:00 -->
             <div class="schedule-row">
-            <div class="schedule-time">15:45 &ndash; 16:00</div>
+            <div class="schedule-time">15:45 &ndash; 16:15</div>
             <div class="schedule-detail">
                 <h6>Upcoming Initiatives and Announcements</h6>
                 <span>A high-level overview of Fiji's ongoing and upcoming cybersecurity initiatives and key actions under the National Cybersecurity and Resilience Strategy 2026–2031. &middot; Hon. Minister for Policing and Communications &middot; Ballroom A, GPH</span>
@@ -260,9 +260,9 @@
 
             <!-- 16:00 – 16:30 -->
             <div class="schedule-row">
-            <div class="schedule-time">16:00 &ndash; 16:30</div>
+            <div class="schedule-time">16:15 &ndash; 16:30</div>
             <div class="schedule-detail">
-                <h6>Closing Remarks &amp; Way Forward</h6>
+                <h6>Closing Remarks</h6>
                 <span>Reflections on the day and Fiji's continued partnership with regional and international stakeholders on cybersecurity. &middot; Mr Avish Naidu, Director – Communications, Ministry of Policing and Communications &middot; Ballroom A, GPH</span>
             </div>
             </div>
