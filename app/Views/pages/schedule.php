@@ -50,8 +50,8 @@
             <div class="schedule-detail">
                 <h6>Official Arrival</h6>
                 <span>Arrival of the Chief Guest and official party.</span>
-                <h3> MC: Master of Ceremonies</h3>
-                <strong>Ballroom A, GPH</strong>
+                <h6> MC: Master of Ceremonies</h6>
+                <span>Ballroom A, GPH</span>
             </div>
             </div>
 
