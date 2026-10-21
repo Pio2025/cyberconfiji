@@ -119,10 +119,10 @@
                 <h6>Fireside Chat &ndash; Cybersecurity in the Region</h6>
                 <p>A high-level conversation bringing together leaders from Fiji, Australia and Papua New Guinea to discuss the evolving cybersecurity landscape in the Pacific, regional cooperation, cyber resilience, and building stronger national and regional capacity to protect our digital future.</p>
                 <div class="session-speakers">
-                  <div>Moderator: Mr Vijay Narayan, Journalist</div>
-                  <div>Hon. Ioane Naivalurua, Fiji Minister for Policing and Communications</div>
-                  <div>Hon. Peter Roberts, Australian High Commissioner for Fiji</div>
-                  <div>Hon. Robert Naguri, Papua New Guinea Minister for Information and Communications Technology</div>
+                  <div><span class="speaker-name">Moderator: Mr Vijay Narayan</span><span class="speaker-role">, Journalist</span></div>
+                  <div><span class="speaker-name">Hon. Ioane Naivalurua</span><span class="speaker-role">, Fiji Minister for Policing and Communications</span></div>
+                  <div><span class="speaker-name">Hon. Peter Roberts</span><span class="speaker-role">, Australian High Commissioner for Fiji</span></div>
+                  <div><span class="speaker-name">Hon. Robert Naguri</span><span class="speaker-role">, Papua New Guinea Minister for Information and Communications Technology</span></div>
                 </div>
               </div>
               <div class="st-col st-col-pillar"><span class="pillar-tag pillar-p5">P5</span></div>
@@ -174,7 +174,7 @@
               <div class="st-col st-col-session">
                 <h6>Cybersecurity: The Fijian Perspective</h6>
                 <p>A high-level briefing providing an overview of the current cybersecurity threat landscape, key emerging threats and vulnerabilities affecting Fiji and the wider Pacific region. The session will highlight recent trends, common attack methods, and practical priorities for strengthening cyber awareness, preparedness and resilience.</p>
-                <div class="session-speakers"><div>Ms Catherine Subhaydas, Director, Fiji CERT</div></div>
+                <div class="session-speakers"><div><span class="speaker-name">Ms Catherine Subhaydas</span><span class="speaker-role">, Director, Fiji CERT</span></div></div>
               </div>
               <div class="st-col st-col-pillar"><span class="pillar-tag pillar-p1">P1</span></div>
               <div class="st-col st-col-venue">Ballroom A, GPH</div>
@@ -186,7 +186,7 @@
               <div class="st-col st-col-session">
                 <h6>Track A &ndash; Keeping Our Children Safe Online</h6>
                 <p>A practical and engaging session for parents, caregivers, educators, industry professionals and the wider community, exploring the evolving digital risks facing children and young people. From cyberbullying and CSAM to scams, gaming platforms and social media, this session examines the challenges children face in today's connected world.</p>
-                <div class="session-speakers"><div>Mr Vytenis Benetis, EU Cybernet Representative</div></div>
+                <div class="session-speakers"><div><span class="speaker-name">Mr Vytenis Benetis</span><span class="speaker-role">, EU Cybernet Representative</span></div></div>
               </div>
               <div class="st-col st-col-pillar">
                 <span class="pillar-tag pillar-p1">P1</span>
@@ -201,12 +201,12 @@
                 <h6>Track B &ndash; Youth &amp; Careers in Cyber: Pathways into the Digital Workforce<span class="schedule-badge-side">Side Session</span></h6>
                 <p>An engaging session empowering young people to explore career opportunities in cybersecurity and the broader digital sector, discover emerging pathways, and gain insights into the skills and opportunities shaping the future of work.</p>
                 <div class="session-speakers">
-                  <div>Moderator: Mr Prashil Kumar, CEO, Cyber Acads</div>
-                  <div>Dr. Jashvir Bir, Lecturer, University of South Pacific Fiji</div>
-                  <div>Mr Vikash Prasad, Chief Technical Officer, Vodafone Fiji</div>
-                  <div>Mr Vinit Nand, CEO, Datec Fiji</div>
-                  <div>Ms Pritika Seth, Women in Tech Fiji, CyberHer Program Director</div>
-                  <div>Mr Faraz Khan, EU Cybernet Representative</div>
+                  <div><span class="speaker-name">Moderator: Mr Prashil Kumar</span><span class="speaker-role">, CEO, Cyber Acads</span></div>
+                  <div><span class="speaker-name">Dr. Jashvir Bir</span><span class="speaker-role">, Lecturer, University of South Pacific Fiji</span></div>
+                  <div><span class="speaker-name">Mr Vikash Prasad</span><span class="speaker-role">, Chief Technical Officer, Vodafone Fiji</span></div>
+                  <div><span class="speaker-name">Mr Vinit Nand</span><span class="speaker-role">, CEO, Datec Fiji</span></div>
+                  <div><span class="speaker-name">Ms Pritika Seth</span><span class="speaker-role">, Women in Tech Fiji, CyberHer Program Director</span></div>
+                  <div><span class="speaker-name">Mr Faraz Khan</span><span class="speaker-role">, EU Cybernet Representative</span></div>
                 </div>
               </div>
               <div class="st-col st-col-pillar"></div>
@@ -219,7 +219,7 @@
               <div class="st-col st-col-session">
                 <h6>Cyber Hygiene: Scams</h6>
                 <p>A practical cyber hygiene session examining scam calls, caller impersonation, and deepfakes as common forms of digital deception. The session will provide simple, practical guidance on what to check, what not to share, and what to do when receiving a suspicious call or encountering manipulated content.</p>
-                <div class="session-speakers"><div>Ms Seema Shandil, Fiji Consumer Council, Chief Executive Officer</div></div>
+                <div class="session-speakers"><div><span class="speaker-name">Ms Seema Shandil</span><span class="speaker-role">, Fiji Consumer Council, Chief Executive Officer</span></div></div>
               </div>
               <div class="st-col st-col-pillar"><span class="pillar-tag pillar-p1">P1</span></div>
               <div class="st-col st-col-venue">Ballroom A, GPH</div>
@@ -242,7 +242,7 @@
               <div class="st-col st-col-session">
                 <h6>Beyond Defense: Building Cyber Resilience for Critical Infrastructure</h6>
                 <p>How critical infrastructure organisations can prepare for, withstand and recover from cyber disruption, with insights on securing complex systems at scale.</p>
-                <div class="session-speakers"><div>Mr. David Eyre, Chair &ndash; Telecommunication Authority of Fiji</div></div>
+                <div class="session-speakers"><div><span class="speaker-name">Mr. David Eyre</span><span class="speaker-role">, Chair &ndash; Telecommunication Authority of Fiji</span></div></div>
               </div>
               <div class="st-col st-col-pillar">
                 <span class="pillar-tag pillar-p1">P1</span>
@@ -264,7 +264,7 @@
               <div class="st-col st-col-session">
                 <h6>Fiji's 24/7 Security Operations Centre &ndash; An Overview</h6>
                 <p>Insights on how the 24/7 SOC detects, investigates and responds to cyber threats in real time and why it matters for Fiji.</p>
-                <div class="session-speakers"><div>Mr Tomasi Buli, Manager Systems and a/Manager Security and Operations, ITC Services</div></div>
+                <div class="session-speakers"><div><span class="speaker-name">Mr Tomasi Buli</span><span class="speaker-role">, Manager Systems and a/Manager Security and Operations, ITC Services</span></div></div>
               </div>
               <div class="st-col st-col-pillar">
                 <span class="pillar-tag pillar-p2">P2</span>
@@ -290,7 +290,7 @@
               <div class="st-col st-col-session">
                 <h6>Strengthening Data Governance and Protection in Fiji</h6>
                 <p>Explore Fiji Government's progress in data protection policy, ongoing legislation, and plans for a Data Management Framework to strengthen data governance, security and public trust.</p>
-                <div class="session-speakers"><div>Mr Ashial Singh, A/Director DGTO, Ministry of Policing and Communications</div></div>
+                <div class="session-speakers"><div><span class="speaker-name">Mr Ashial Singh</span><span class="speaker-role">, A/Director DGTO, Ministry of Policing and Communications</span></div></div>
               </div>
               <div class="st-col st-col-pillar">
                 <span class="pillar-tag pillar-p1">P1</span>
@@ -306,7 +306,7 @@
               <div class="st-col st-col-session">
                 <h6>Rethinking Security When Using AI</h6>
                 <p>AI is transforming how we work &ndash; but it also introduces new security risks. This session explores practical ways to protect data, manage AI-related threats, verify AI-generated information, and use AI responsibly and securely.</p>
-                <div class="session-speakers"><div>Mr Lee Sea Lin, Senior Vice President of Solutions and Services, Toppan Ecquaria</div></div>
+                <div class="session-speakers"><div><span class="speaker-name">Mr Lee Sea Lin</span><span class="speaker-role">, Senior Vice President of Solutions and Services, Toppan Ecquaria</span></div></div>
               </div>
               <div class="st-col st-col-pillar"><span class="pillar-tag pillar-p1">P1</span></div>
               <div class="st-col st-col-venue">Ballroom A, GPH</div>
@@ -318,7 +318,7 @@
               <div class="st-col st-col-session">
                 <h6>Cyber Hygiene Essential: Stay Smart, Stay Secure</h6>
                 <p>An interactive session exploring everyday cybersecurity risks and how to recognise them. Participants will work through realistic examples of phishing, scams, social engineering, password security and online threats, testing their ability to identify what is safe and what could be a cyber risk.</p>
-                <div class="session-speakers"><div>Mr Ron Bala, Advisor, Fiji CERT</div></div>
+                <div class="session-speakers"><div><span class="speaker-name">Mr Ron Bala</span><span class="speaker-role">, Advisor, Fiji CERT</span></div></div>
               </div>
               <div class="st-col st-col-pillar">
                 <span class="pillar-tag pillar-p1">P1</span>
@@ -341,11 +341,11 @@
                 <h6>Panel: The Human Side of Cybersecurity &ndash; Gendered Threats and Shared Responsibility</h6>
                 <p>Cybercriminals don't just exploit technology, they exploit people. Explore how women and men are targeted through doxxing, phishing, identity compromise, impersonation, and account takeover, and why these attack vectors matter to everyone. Discover how we can work together to recognise threats, reduce harm, and build safer digital communities.</p>
                 <div class="session-speakers">
-                  <div>Moderator: Ms Hannah Bradshaw, Head of Cyber Affairs, Ministry of Policing and Communications</div>
-                  <div>Ms Makereta Gavidi, ICT Infrastructure Team Lead, The Pacific Community (SPC)</div>
-                  <div>Mr. Nereo Pe&ntilde;alver Garc&iacute;a, Deputy Head of Delegation of the European Union to the Pacific</div>
-                  <div>Ms Seema Shandil, Fiji Consumer Council, Chief Executive Officer</div>
-                  <div>Ms Tori Lamb, Assistant Secretary, Cyber Affairs and Critical Technology Branch &ndash; Department of Foreign Affairs and Trade, Australia</div>
+                  <div><span class="speaker-name">Moderator: Ms Hannah Bradshaw</span><span class="speaker-role">, Head of Cyber Affairs, Ministry of Policing and Communications</span></div>
+                  <div><span class="speaker-name">Ms Makereta Gavidi</span><span class="speaker-role">, ICT Infrastructure Team Lead, The Pacific Community (SPC)</span></div>
+                  <div><span class="speaker-name">Mr. Nereo Pe&ntilde;alver Garc&iacute;a</span><span class="speaker-role">, Deputy Head of Delegation of the European Union to the Pacific</span></div>
+                  <div><span class="speaker-name">Ms Seema Shandil</span><span class="speaker-role">, Fiji Consumer Council, Chief Executive Officer</span></div>
+                  <div><span class="speaker-name">Ms Tori Lamb</span><span class="speaker-role">, Assistant Secretary, Cyber Affairs and Critical Technology Branch &ndash; Department of Foreign Affairs and Trade, Australia</span></div>
                 </div>
               </div>
               <div class="st-col st-col-pillar">
@@ -383,7 +383,7 @@
               <div class="st-col st-col-session">
                 <h6>Closing Remarks</h6>
                 <p>Reflections on the two days and Fiji's continued partnership with regional and international stakeholders on cybersecurity.</p>
-                <div class="session-speakers"><div>Mr Avish Naidu, Director &ndash; Communications, Ministry of Policing and Communications</div></div>
+                <div class="session-speakers"><div><span class="speaker-name">Mr Avish Naidu</span><span class="speaker-role">, Director &ndash; Communications, Ministry of Policing and Communications</span></div></div>
               </div>
               <div class="st-col st-col-pillar"><span class="pillar-tag pillar-all">ALL</span></div>
               <div class="st-col st-col-venue">Ballroom A, GPH</div>

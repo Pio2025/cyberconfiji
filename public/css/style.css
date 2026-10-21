@@ -1080,6 +1080,7 @@ a:focus-visible, button:focus-visible {
 .st-col-session p { margin-bottom: 0.35rem; font-size: 0.85rem; color: var(--text-muted); }
 .st-col-session .session-speakers { font-size: 0.8rem; color: var(--text-muted); font-style: italic; }
 .st-col-session .session-speakers div { margin-bottom: 0.1rem; }
+.speaker-name { font-weight: 600; font-style: normal; color: var(--text-dark); }
 .st-col-pillar { display: flex; flex-direction: column; gap: 0.35rem; align-items: flex-start; }
 .st-col-venue { font-size: 0.85rem; color: var(--text-muted); }
 
@@ -1113,6 +1114,7 @@ a:focus-visible, button:focus-visible {
   .st-col-session { order: 3; }
   .st-col-venue { order: 4; font-weight: 600; color: var(--navy-deep); }
   .schedule-table-row--break .st-col-session { grid-column: auto; }
+  .speaker-role { display: none; }
 }
 
 /* =========================================================
