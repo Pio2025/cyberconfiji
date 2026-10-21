@@ -56,18 +56,6 @@ document.addEventListener('DOMContentLoaded', function () {
     sections.forEach(function (section) { observer.observe(section); });
   }
 
-  // Speaker cards — tap to reveal on touch devices (hover handles the rest)
-  if (window.matchMedia('(hover: none)').matches) {
-    document.querySelectorAll('.speaker-card').forEach(function (card) {
-      card.addEventListener('click', function () {
-        document.querySelectorAll('.speaker-card.is-active').forEach(function (c) {
-          if (c !== card) c.classList.remove('is-active');
-        });
-        card.classList.toggle('is-active');
-      });
-    });
-  }
-
   // Current year in footer
   document.querySelectorAll('.js-year').forEach(function (el) {
     el.textContent = new Date().getFullYear();

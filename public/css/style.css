@@ -635,6 +635,19 @@ a { text-decoration: none; }
 
 @media (max-width: 767.98px) {
   .speaker-default-label span { display: none; }
+  .speaker-card:hover .speaker-photo,
+  .speaker-card.is-active .speaker-photo {
+    transform: none;
+    opacity: 1;
+  }
+  .speaker-card:hover .speaker-default-label,
+  .speaker-card.is-active .speaker-default-label {
+    opacity: 1;
+  }
+  .speaker-card:hover .speaker-overlay,
+  .speaker-card.is-active .speaker-overlay {
+    opacity: 0;
+  }
 }
 
 /* =========================================================
