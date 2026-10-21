@@ -973,23 +973,6 @@ a:focus-visible, button:focus-visible {
 /* =========================================================
    Schedules page
    ========================================================= */
-.schedule-full .schedule-row { gap: 2rem; }
-.schedule-track {
-  display: inline-block;
-  font-size: 0.68rem;
-  letter-spacing: 0.05em;
-  text-transform: uppercase;
-  font-weight: 700;
-  padding: 0.2rem 0.55rem;
-  border-radius: 4px;
-  margin-left: 0.6rem;
-  vertical-align: middle;
-}
-.track-plenary { background: #e7f3fb; color: #1f6fa5; }
-.track-workshop { background: #eaf6ee; color: #2f8a54; }
-.track-roundtable { background: #f3ecfb; color: #6b45a5; }
-.track-break { background: #f1f4f8; color: #6d84a4; }
-
 .schedule-row--side {
   background: #eaf5fd;
   margin: 0 -1rem;
@@ -1011,9 +994,126 @@ a:focus-visible, button:focus-visible {
   color: #fff;
 }
 
-.legend { display: flex; flex-wrap: wrap; gap: 1rem; margin-top: 1.5rem; }
-.legend span { font-size: 0.82rem; color: var(--text-muted); display: inline-flex; align-items: center; gap: 0.4rem; }
-.legend i { width: 12px; height: 12px; border-radius: 3px; display: inline-block; }
+/* Pillars legend box */
+.pillars-legend {
+  background: var(--bg-light);
+  border: 1px solid #e3ebf3;
+  border-radius: 10px;
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 1.75rem;
+}
+.pillars-legend-title {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 0.95rem;
+  color: var(--navy-deep);
+  margin-bottom: 0.9rem;
+}
+.pillars-legend-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: 0.6rem 1.5rem;
+}
+.pillar-chip {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  font-size: 0.82rem;
+  color: var(--text-dark);
+  line-height: 1.3;
+}
+.pillar-tag {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  min-width: 30px;
+  height: 22px;
+  padding: 0 0.4rem;
+  border-radius: 4px;
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 0.72rem;
+  letter-spacing: 0.02em;
+  color: #fff;
+}
+.pillar-p1 { background: var(--navy-deep); }
+.pillar-p2 { background: #d97a2e; }
+.pillar-p3 { background: #6b45a5; }
+.pillar-p4 { background: #1f6b3a; }
+.pillar-p5, .pillar-all { background: #b5202f; }
+
+/* Schedule table — mirrors the official printed agenda */
+.schedule-table {
+  border: 1px solid #e3ebf3;
+  border-radius: 10px;
+  overflow: hidden;
+}
+.schedule-table-head {
+  display: grid;
+  grid-template-columns: 110px 1fr 100px 170px;
+  background: #1894a8;
+  color: #fff;
+}
+.schedule-table-head .st-col {
+  padding: 0.75rem 1rem;
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.schedule-table-row {
+  display: grid;
+  grid-template-columns: 110px 1fr 100px 170px;
+  border-top: 1px solid #e3ebf3;
+}
+.schedule-table-row:nth-child(even) { background: var(--bg-light); }
+.schedule-table-row .st-col { padding: 1rem; }
+.st-col-time {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 0.85rem;
+  color: var(--navy-deep);
+}
+.st-col-session h6 { margin-bottom: 0.3rem; font-family: var(--font-body); font-weight: 700; }
+.st-col-session p { margin-bottom: 0.35rem; font-size: 0.85rem; color: var(--text-muted); }
+.st-col-session .session-speakers { font-size: 0.8rem; color: var(--text-muted); font-style: italic; }
+.st-col-session .session-speakers div { margin-bottom: 0.1rem; }
+.st-col-pillar { display: flex; flex-direction: column; gap: 0.35rem; align-items: flex-start; }
+.st-col-venue { font-size: 0.85rem; color: var(--text-muted); }
+
+/* Break rows (Morning Tea, Lunch, Afternoon Tea) — solid teal bar */
+.schedule-table-row--break {
+  background: #1894a8 !important;
+  align-items: center;
+}
+.schedule-table-row--break .st-col-time,
+.schedule-table-row--break .st-col-session h6 {
+  color: #fff;
+}
+.schedule-table-row--break .st-col-session { grid-column: 2 / 4; }
+.schedule-table-row--break .st-col-session h6 { margin-bottom: 0; }
+.schedule-table-row--break .st-col-venue { color: #fff; opacity: 0.9; }
+
+/* Side-session rows — light blue tint + badge, same treatment as before */
+.schedule-table-row--side { background: #eaf5fd !important; }
+.schedule-table-row--side .schedule-badge-side { margin-left: 0.6rem; }
+
+@media (max-width: 991.98px) {
+  .schedule-table-head { display: none; }
+  .schedule-table-row {
+    grid-template-columns: 1fr;
+    padding: 1rem;
+    gap: 0.5rem;
+  }
+  .schedule-table-row .st-col { padding: 0; }
+  .st-col-time { order: 1; }
+  .st-col-pillar { order: 2; flex-direction: row; flex-wrap: wrap; }
+  .st-col-session { order: 3; }
+  .st-col-venue { order: 4; font-weight: 600; color: var(--navy-deep); }
+  .schedule-table-row--break .st-col-session { grid-column: auto; }
+}
 
 /* =========================================================
    Contact page
@@ -1145,8 +1245,6 @@ a:focus-visible, button:focus-visible {
 
   /* Schedule & Contact pages */
   .page-hero { padding-bottom: 3.5rem; }
-  .legend { margin-top: 1.25rem; gap: 0.85rem; }
-  .legend span { flex: 1 1 100%; }
 
   .contact-form.row { margin-bottom: 0.5rem; }
   .map-embed { min-height: 240px; }
