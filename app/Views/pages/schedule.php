@@ -49,7 +49,9 @@
             <div class="schedule-time">08:30 &ndash; 09:00</div>
             <div class="schedule-detail">
                 <h6>Official Arrival</h6>
-                <span>Arrival of the Chief Guest and official party. &middot; MC: Master of Ceremonies &middot; Ballroom A, GPH</span>
+                <span>Arrival of the Chief Guest and official party.</span>
+                <h3> MC: Master of Ceremonies</h3>
+                <strong>Ballroom A, GPH</strong>
             </div>
             </div>
 
