@@ -155,6 +155,23 @@
           </div>
         </div>
 
+        <!-- Speaker 11 -->
+        <div class="col-6 col-md-6 col-lg-3">
+          <div class="speaker-card">
+            <img class="speaker-photo" src="assets/img/profile/14.jpg" alt="Portrait of David Eyre">
+            <div class="speaker-default-label">
+              <h5>David Eyre</h5>
+              <span>Chairman, Telecommunications Authority of Fiji</span>
+            </div>
+            <div class="speaker-overlay">
+              <h5>David Eyre</h5>
+              <p class="designation">Chairman, Telecommunications Authority of Fiji</p>
+              <p class="experience">25 years across telecommunications, broadcast television, energy access, and climate finance. Led fixed-line, prepaid voice and data, and residential ISP operations at Telecom Fiji.</p>
+              <span class="experience-tag">Telecommunications &amp; Communications</span>
+            </div>
+          </div>
+        </div>
+
         <!-- Speaker 1 -->
         <div class="col-6 col-md-6 col-lg-3">
           <div class="speaker-card">
@@ -321,23 +338,6 @@
               <p class="designation">Senior Vice Precident, Solutions & Services, TOPPAN Ecquaria Pte Ltd</p>
               <p class="experience">Senior Vice President of Solutions & Services at TOPPAN Ecquaria, leading the company’s pre-sales, solutioning, and services teams. Helps governments and enterprises turn complex digital transformation ambitions into practical, citizen-centric outcomes.</p>
               <span class="experience-tag">Cybersecurity &amp; Cyber Affairs</span>
-            </div>
-          </div>
-        </div>
-
-        <!-- Speaker 11 -->
-        <div class="col-6 col-md-6 col-lg-3">
-          <div class="speaker-card">
-            <img class="speaker-photo" src="assets/img/profile/14.jpg" alt="Portrait of David Eyre">
-            <div class="speaker-default-label">
-              <h5>David Eyre</h5>
-              <span>Chairman, Telecommunications Authority of Fiji</span>
-            </div>
-            <div class="speaker-overlay">
-              <h5>David Eyre</h5>
-              <p class="designation">Chairman, Telecommunications Authority of Fiji</p>
-              <p class="experience">25 years across telecommunications, broadcast television, energy access, and climate finance. Led fixed-line, prepaid voice and data, and residential ISP operations at Telecom Fiji.</p>
-              <span class="experience-tag">Telecommunications &amp; Communications</span>
             </div>
           </div>
         </div>
