@@ -228,8 +228,8 @@
             <div class="schedule-table-row schedule-table-row--side">
               <div class="st-col st-col-time">11:10 &ndash; 12:00</div>
               <div class="st-col st-col-session">
-                <h6>Youth Mini Hackathon Challenge (Part 1)<span class="schedule-badge-side">Side Session</span></h6>
-                <p>A fast-paced cybersecurity challenge for children &ndash; design a solution to help people stay safe online, prototype it, and present to the group.</p>
+                <h6>Cyber Detectives: Youth Capture the Flag (Part 1)<span class="schedule-badge-side">Side Session</span></h6>
+                <p>Teams of secondary school students (14 to 17), each with a university mentor, investigate a realistic online scam. Using open-source investigation, they check messages, profiles, websites and payments to find out how the scam works and who is behind it.</p>
                 <div class="session-speakers"><div>EU Cybernet</div></div>
               </div>
               <div class="st-col st-col-pillar"></div>
@@ -276,8 +276,8 @@
             <div class="schedule-table-row schedule-table-row--side">
               <div class="st-col st-col-time">13:00 &ndash; 15:00</div>
               <div class="st-col st-col-session">
-                <h6>Youth Mini Hackathon Challenge (Continued)<span class="schedule-badge-side">Side Session</span></h6>
-                <p>Continuation of the hands-on cybersecurity challenge for children.</p>
+                <h6>Cyber Detectives: Youth Capture the Flag (Continued)<span class="schedule-badge-side">Side Session</span></h6>
+                <p>Teams follow the trail to the end, brief the school on what they found, and the best teams are recognised at the awards.</p>
                 <div class="session-speakers"><div>EU Cybernet</div></div>
               </div>
               <div class="st-col st-col-pillar"></div>
