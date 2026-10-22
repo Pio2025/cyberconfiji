@@ -433,7 +433,7 @@
         <!-- Speaker 11 -->
         <div class="col-6 col-md-6 col-lg-3">
           <div class="speaker-card">
-            <img class="speaker-photo" src="assets/img/profile/20.jpg" alt="Portrait of Ron Bala">
+            <img class="speaker-photo" src="assets/img/profile/20.jpg" alt="Portrait of Ashial Singh">
             <div class="speaker-default-label">
               <h5>Ashial Singh</h5>
               <span>A/Director DGT, Ministry of Policing and Communications</span>
@@ -443,6 +443,42 @@
               <p class="designation">A/Director DGT, Ministry of Policing and Communications</p>
               <p class="experience"></p>
               <span class="experience-tag">Cybersecurity &amp; Cert</span>
+            </div>
+          </div>
+        </div>
+
+        
+        <!-- Speaker 11 -->
+        <div class="col-6 col-md-6 col-lg-3">
+          <div class="speaker-card">
+            <img class="speaker-photo" src="assets/img/profile/21.jpg" alt="Portrait of Tomasi Buli">
+            <div class="speaker-default-label">
+              <h5>Tomasi Buli</h5>
+              <span>Manager Systems, Ministry of Policing and Communications</span>
+            </div>
+            <div class="speaker-overlay">
+              <h5>Tomasi Buli</h5>
+              <p class="designation">Manager Systems, Ministry of Policing and Communications</p>
+              <p class="experience"></p>
+              <span class="experience-tag">Cybersecurity &amp; Systems</span>
+            </div>
+          </div>
+        </div>
+
+        
+        <!-- Speaker 11 -->
+        <div class="col-6 col-md-6 col-lg-3">
+          <div class="speaker-card">
+            <img class="speaker-photo" src="assets/img/profile/22.jpg" alt="Portrait of Diego Silva">
+            <div class="speaker-default-label">
+              <h5>Diego Silva</h5>
+              <span>CyberCX Representative, CyberCX</span>
+            </div>
+            <div class="speaker-overlay">
+              <h5>Diego Silva</h5>
+              <p class="designation">CyberCX Representative, CyberCX</p>
+              <p class="experience">Cyber threat intelligence specialist with 15+ years across academia and industry. Leads specialist teams at CyberCX, delivering engagements across critical infrastructure and finance, including CORIE assessments. Skilled in dark web intelligence, cybercrime monitoring, exploit research and AI.</p>
+              <span class="experience-tag">Cybersecurity &amp; Systems</span>
             </div>
           </div>
         </div>
