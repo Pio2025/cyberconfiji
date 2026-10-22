@@ -478,7 +478,7 @@
               <h5>Diego Silva</h5>
               <p class="designation">CyberCX Representative, CyberCX</p>
               <p class="experience">Cyber threat intelligence specialist with 15+ years across academia and industry. Leads specialist teams at CyberCX, delivering engagements across critical infrastructure and finance, including CORIE assessments. Skilled in dark web intelligence, cybercrime monitoring, exploit research and AI.</p>
-              <span class="experience-tag">Cybersecurity &amp; Systems</span>
+              <span class="experience-tag">Threat Intelligence &amp; AI</span>
             </div>
           </div>
         </div>
