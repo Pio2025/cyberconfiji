@@ -387,7 +387,7 @@
             <div class="speaker-overlay">
               <h5>Makereta Cinavilakeba</h5>
               <p class="designation">ICT Infrastructure Team Leader, The Pacific Community</p>
-              <p class="experience"></p>
+              <p class="experience">Leads the ICT Infrastructure Team at the Pacific Community (SPC) in Suva, Fiji, supporting its hosted digital services. Brings over 20 years’ experience, including 17 years with Fiji Government ITC Services and two with the Forum Secretariat.</p>
               <span class="experience-tag">Finance &amp; Technology</span>
             </div>
           </div>
@@ -423,6 +423,24 @@
             <div class="speaker-overlay">
               <h5>Ron Bala</h5>
               <p class="designation">Senior Advisor to CERT, Ministry of Policing and Communications</p>
+              <p class="experience"></p>
+              <span class="experience-tag">Cybersecurity &amp; Cert</span>
+            </div>
+          </div>
+        </div>
+
+        
+        <!-- Speaker 11 -->
+        <div class="col-6 col-md-6 col-lg-3">
+          <div class="speaker-card">
+            <img class="speaker-photo" src="assets/img/profile/20.jpg" alt="Portrait of Ron Bala">
+            <div class="speaker-default-label">
+              <h5>Ashial Singh</h5>
+              <span>A/Director DGT, Ministry of Policing and Communications</span>
+            </div>
+            <div class="speaker-overlay">
+              <h5>Ashial Singh</h5>
+              <p class="designation">A/Director DGT, Ministry of Policing and Communications</p>
               <p class="experience"></p>
               <span class="experience-tag">Cybersecurity &amp; Cert</span>
             </div>
