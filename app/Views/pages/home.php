@@ -173,7 +173,7 @@
         </div>
 
         <!-- Speaker 11 -->
-        <div class="col-6 col-md-6 col-lg-3">
+        <!--div class="col-6 col-md-6 col-lg-3">
           <div class="speaker-card">
             <img class="speaker-photo" src="assets/img/profile/14.jpg" alt="Portrait of David Eyre">
             <div class="speaker-default-label">
@@ -187,7 +187,7 @@
               <span class="experience-tag">Telecommunications &amp; Communications</span>
             </div>
           </div>
-        </div>
+        </div-->
 
         <!-- Speaker 1 -->
         <div class="col-6 col-md-6 col-lg-3">
