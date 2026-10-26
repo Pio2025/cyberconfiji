@@ -138,6 +138,23 @@
           </div>
         </div>
 
+        <!-- Speaker 1 -->
+        <div class="col-6 col-md-6 col-lg-3">
+          <div class="speaker-card">
+            <img class="speaker-photo" src="assets/img/profile/23.jpg" alt="Portrait of Hon. Robert Naguri">
+            <div class="speaker-default-label">
+              <h5>Hon. Robert Naguri</h5>
+              <span>Minister ICT, PNG</span>
+            </div>
+            <div class="speaker-overlay">
+              <h5>Hon. Robert Naguri</h5>
+              <p class="designation">Minister ICT, PNG</p>
+              <p class="experience"></p>
+              <span class="experience-tag">Leadership </span>
+            </div>
+          </div>
+        </div>
+
         <!-- Speaker 4 -->
         <div class="col-6 col-md-6 col-lg-3">
           <div class="speaker-card">
@@ -168,25 +185,6 @@
               <p class="designation">Chairman, Telecommunications Authority of Fiji</p>
               <p class="experience">25 years across telecommunications, broadcast television, energy access, and climate finance. Led fixed-line, prepaid voice and data, and residential ISP operations at Telecom Fiji.</p>
               <span class="experience-tag">Telecommunications &amp; Communications</span>
-            </div>
-          </div>
-        </div>
-
-        
-
-        <!-- Speaker 1 -->
-        <div class="col-6 col-md-6 col-lg-3">
-          <div class="speaker-card">
-            <img class="speaker-photo" src="assets/img/profile/23.jpg" alt="Portrait of Hon. Robert Naguri">
-            <div class="speaker-default-label">
-              <h5>Hon. Robert Naguri</h5>
-              <span>Minister ICT, PNG</span>
-            </div>
-            <div class="speaker-overlay">
-              <h5>Hon. Robert Naguri</h5>
-              <p class="designation">Minister ICT, PNG</p>
-              <p class="experience"></p>
-              <span class="experience-tag">Leadership </span>
             </div>
           </div>
         </div>
