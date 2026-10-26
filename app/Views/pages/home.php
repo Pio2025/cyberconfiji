@@ -167,7 +167,7 @@
               <h5>David Eyre</h5>
               <p class="designation">Chairman, Telecommunications Authority of Fiji</p>
               <p class="experience">25 years across telecommunications, broadcast television, energy access, and climate finance. Led fixed-line, prepaid voice and data, and residential ISP operations at Telecom Fiji.</p>
-              <span class="experience-tag">Leadership</span>
+              <span class="experience-tag">Telecommunications &amp; Communications</span>
             </div>
           </div>
         </div>
@@ -186,7 +186,7 @@
               <h5>Hon. Robert Naguri</h5>
               <p class="designation">Minister ICT, PNG</p>
               <p class="experience"></p>
-              <span class="experience-tag">Cybersecurity &amp; Telecommunications </span>
+              <span class="experience-tag">Leadership </span>
             </div>
           </div>
         </div>
