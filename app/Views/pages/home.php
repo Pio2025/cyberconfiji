@@ -208,6 +208,24 @@
           </div>
         </div>
 
+        
+        <!-- Speaker 1 -->
+        <div class="col-6 col-md-6 col-lg-3">
+          <div class="speaker-card">
+            <img class="speaker-photo" src="assets/img/profile/24.jpg" alt="Portrait of Prit Chand">
+            <div class="speaker-default-label">
+              <h5>Prit Chand</h5>
+              <span>Chief Executive Officer,  Telecommunications Authority Fiji</span>
+            </div>
+            <div class="speaker-overlay">
+              <h5>Prit Chand</h5>
+              <p class="designation">Chief Executive Officer,  Telecommunications Authority Fiji</p>
+              <p class="experience"></p>
+              <span class="experience-tag">Administration &amp; Telecommunications </span>
+            </div>
+          </div>
+        </div>
+
         <!-- Speaker 2 -->
         <div class="col-6 col-md-6 col-lg-3">
           <div class="speaker-card">
