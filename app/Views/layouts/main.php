@@ -96,7 +96,7 @@
 
       <div class="col-6 col-lg-2">
         <h6>Attend</h6>
-        <a href="<?php echo base_url('attendance'); ?>">Confirm Attendance</a>
+        <!--a href="<?php echo base_url('attendance'); ?>">Confirm Attendance</a-->
         <a href="<?php echo base_url('contact'); ?>">Contact Us</a>
       </div>
 
