@@ -369,7 +369,7 @@
             <div class="schedule-table-row">
               <div class="st-col st-col-time">15:45 &ndash; 16:15</div>
               <div class="st-col st-col-session">
-                <h6>Upcoming Initiatives and Announcements</h6>
+                <h6>Upcoming Initiatives and Closing</h6>
                 <p>A high-level overview of Fiji's ongoing and upcoming cybersecurity initiatives and key actions being advanced under the National Cybersecurity and Resilience Strategy 2026&ndash;2031. The Minister will also highlight priorities for strengthening national cyber resilience, collaboration, capacity building and Fiji's continued commitment to a safer and more secure digital future.</p>
                 <div class="session-speakers"><div>Hon. Minister for Policing and Communications</div></div>
               </div>
