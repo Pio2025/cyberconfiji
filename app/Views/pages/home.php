@@ -538,7 +538,7 @@
         <!-- Speaker 11 -->
         <div class="col-6 col-md-6 col-lg-3">
           <div class="speaker-card">
-            <img class="speaker-photo" src="assets/img/profile/22.jpg" alt="Portrait of Avish Naidu">
+            <img class="speaker-photo" src="assets/img/profile/26.jpg" alt="Portrait of Avish Naidu">
             <div class="speaker-default-label">
               <h5>Avish Naidu</h5>
               <span>Director Digital Government Transformation, Ministry of Policing and Communications</span>
