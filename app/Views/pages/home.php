@@ -98,7 +98,7 @@
         <div class="col-lg-7 section-heading-block">
           <div class="section-kicker">On the Program</div>
           <h2 class="text-white">Speakers charting the course.</h2>
-          <p class="mb-0">Operators, regulators and investors who are building the Pacific's next chapter &mdash; hover a card for a closer look.</p>
+          <p class="mb-0">Operators, regulators and investors who are building the Pacific's next chapter, hover a card for a closer look.</p>
         </div>
       </div>
 
