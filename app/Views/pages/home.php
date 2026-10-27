@@ -160,7 +160,7 @@
           <div class="speaker-card">
             <img class="speaker-photo" src="assets/img/profile/4.jpg" alt="Portrait of Peter Roberts">
             <div class="speaker-default-label">
-              <h5>Peter Roberts</h5>
+              <h5>H.E. Peter Roberts</h5>
               <span>Australian High Commissioner to Fiji, Australian High Commission</span>
             </div>
             <div class="speaker-overlay">
@@ -531,6 +531,23 @@
               <p class="designation">CyberCX Representative, CyberCX</p>
               <p class="experience">Cyber threat intelligence specialist with 15+ years across academia and industry. Leads specialist teams at CyberCX, delivering engagements across critical infrastructure and finance, including CORIE assessments. Skilled in dark web intelligence, cybercrime monitoring, exploit research and AI.</p>
               <span class="experience-tag">Threat Intelligence &amp; AI</span>
+            </div>
+          </div>
+        </div>
+        
+        <!-- Speaker 11 -->
+        <div class="col-6 col-md-6 col-lg-3">
+          <div class="speaker-card">
+            <img class="speaker-photo" src="assets/img/profile/22.jpg" alt="Portrait of Avish Naidu">
+            <div class="speaker-default-label">
+              <h5>Avish Naidu</h5>
+              <span>Director Digital Government Transformation, Ministry of Policing and Communications</span>
+            </div>
+            <div class="speaker-overlay">
+              <h5>Avish Naidu</h5>
+              <p class="designation">Director Digital Government Transformation, Ministry of Policing and Communications</p>
+              <p class="experience"></p>
+              <span class="experience-tag">Cybersecurity &amp; AI</span>
             </div>
           </div>
         </div>
