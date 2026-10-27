@@ -518,6 +518,23 @@
           </div>
         </div>
 
+        <!-- Speaker 11 -->
+        <div class="col-6 col-md-6 col-lg-3">
+          <div class="speaker-card">
+            <img class="speaker-photo" src="assets/img/profile/25.jpg" alt="Portrait of Jyotika Devi">
+            <div class="speaker-default-label">
+              <h5>Jyotika Devi</h5>
+              <span>Chief Commercial Officer, Telecom Fiji (Pte) Limited</span>
+            </div>
+            <div class="speaker-overlay">
+              <h5>Jyotika Devi</h5>
+              <p class="designation">Chief Commercial Officer, Telecom Fiji (Pte) Limited</p>
+              <p class="experience"></p>
+              <span class="experience-tag">Telecomunication &amp; Marketing</span>
+            </div>
+          </div>
+        </div>
+
       </div>
     </div>
   </section>
